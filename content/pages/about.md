@@ -2,7 +2,7 @@
 title: Who We Are
 sections:
   - type: team_section
-    title: Our Team
+    title: ¿Quién es Oscar Barajas Tavares?
     team:
       - content/data/team/dianne-ameter.yaml
       - content/data/team/eleanor-carr.yaml
