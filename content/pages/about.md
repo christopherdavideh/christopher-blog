@@ -34,12 +34,7 @@ sections:
         align: left
         image_alt: profile_image
         image_position: left
-        actions:
-          - label: Ver Portafolio
-            url: /features
-            style: secondary
-            new_window: false
-            no_follow: false
+        actions: []
         image: /images/ChristopherErazo - copia.jpg
       - title: lorem-ipsum
         content: >
