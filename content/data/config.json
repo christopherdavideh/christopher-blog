@@ -31,7 +31,8 @@
             }
         ],
         "logo": "/images/LOGO.png",
-        "logo_alt": "cdeh_logo"
+        "logo_alt": "cdeh_logo",
+        "title": "Mi perfil"
     },
     "footer": {
         "has_nav": true,
