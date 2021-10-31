@@ -74,7 +74,7 @@ sections:
     subtitle: lorem-ipsum
     actions: []
     has_background: false
-    background_color: white
+    background_color: blue
     type: cta_section
 seo:
   title: Stackbit Starter Theme
