@@ -16,7 +16,7 @@ sections:
 
           - dolor sit amet
         align: left
-        image_alt: lorem-ipsum
+        image_alt: profile_image
         image_position: left
         actions: []
         image: /images/ChristopherErazo - copia.jpg
