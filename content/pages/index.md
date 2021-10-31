@@ -73,7 +73,7 @@ sections:
   - title: Contacto
     subtitle: Escríbeme para más información
     actions:
-      - label: lorem-ipsum
+      - label: Escribir
         url: /contact
         style: secondary
         new_window: false
