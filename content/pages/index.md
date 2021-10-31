@@ -80,7 +80,7 @@ sections:
     background_color: blue
     type: cta_section
 seo:
-  title: Chris
+  title: <CDEH - Desarrollador de Software
   extra:
     - name: 'og:type'
       value: website
