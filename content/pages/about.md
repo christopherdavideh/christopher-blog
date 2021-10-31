@@ -1,7 +1,7 @@
 ---
 title: Sobre mí
 sections:
-  - title: lorem-ipsum
+  - title: ¿Quién es Christopher David Erazo Herrera?
     features:
       - title: lorem-ipsum
         content: >-
