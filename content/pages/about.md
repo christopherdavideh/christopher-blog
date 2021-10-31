@@ -57,6 +57,7 @@ sections:
             style: secondary
             new_window: false
             no_follow: false
+        image: /images/diagonal-lines.svg
     type: features_section
 seo:
   title: Who We Are
