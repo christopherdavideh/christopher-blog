@@ -2,7 +2,7 @@
 title: Who We Are
 sections:
   - type: team_section
-    title: ¿Quién es Oscar Barajas Tavares?
+    title: ¿Quién es Christopher David Erazo Herrers?
     team:
       - content/data/team/dianne-ameter.yaml
       - content/data/team/eleanor-carr.yaml
