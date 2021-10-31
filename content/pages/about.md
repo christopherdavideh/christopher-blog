@@ -22,21 +22,6 @@ sections:
 
           JavaScript, Svelte, React, Node, GitHub.
 
-
-          ### Trayectoria
-
-
-          Desarrollador FrontEnd con más de 16 años de experiencia, creando mi
-          primera página web en el 2001, Actualmente Foundation Layer en
-          Platzi.com, Soy uno de los líderes de la comunidad de “Facebook
-          Developers Circles” en Bogotá, Colombia, Nombrado Microsoft Most
-          Valuable Professional en el 2021 y mejor conocido como @gndx en redes
-          sociales.
-
-
-          Actualmente tengo 17 Cursos donde enseño todo lo relacionado con
-          JavaScript en Platzi.com.
-
         align: left
         image_alt: profile_image
         image_position: left
