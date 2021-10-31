@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Christopher David Erazo Herrera
+    title: ¿Quién es Oscar Barajas Tavares?
     subtitle: 'Desarrollador de Software - Estudiante en @Platzi '
     actions:
       - label: Learn More
