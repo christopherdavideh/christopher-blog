@@ -18,7 +18,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: /christopher-david-erazo-herrera/
+            url: '#'
             style: primary
       - title: Feature 2
         content: >-
