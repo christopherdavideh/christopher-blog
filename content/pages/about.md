@@ -20,7 +20,7 @@ sections:
         image_position: left
         actions:
           - label: lorem-ipsum
-            url: '#'
+            url: /feature
             style: link
             new_window: false
             no_follow: false
