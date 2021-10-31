@@ -90,10 +90,9 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >+
-        ------    Desarrollador de Software  
-        ------                                                                                    
-
-        Más información entra aquí
+        Desarrollador Web con más de un año de experiencia, trabajo como
+        freelance realizando proyectos de desarrollo web para pequeños
+        emprendimientos que quieren dar a conocerse en la Web.
 
 
       keyName: property
