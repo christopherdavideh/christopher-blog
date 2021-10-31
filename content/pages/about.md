@@ -24,10 +24,12 @@ sections:
           ### Trayectoria
 
 
-          Desarrollador Web con más de 1 año de experiencia, creando mi primera
-          página web en el año 2019, Actualmente sigo potenciando mis
-          conocimientos y aprendiendo nuevas tecnologías de desarrollo en
-          Platzi.com.
+          Desarrollador Web con más de 1 año de experiencia, creando mi primer
+          aplicativo web en el año 2019 para la empresa Produpack. Actualmente
+          desarrollo páginas web para emprendimientos de algunos conocidos que
+          desean impulsar sus ideas y dar conocer sus servicios en la Web y
+          también sigo potenciando mis conocimientos y aprendiendo nuevas
+          tecnologías de desarrollo en Platzi.com.
         align: left
         image_alt: profile_image
         image_position: left
