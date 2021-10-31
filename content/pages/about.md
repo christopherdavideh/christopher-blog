@@ -48,7 +48,7 @@ sections:
         image_position: right
         actions:
           - label: Ver Proyectos
-            url: /fe
+            url: /features
             style: link
             new_window: false
             no_follow: false
