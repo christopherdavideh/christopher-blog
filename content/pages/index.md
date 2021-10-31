@@ -90,7 +90,8 @@ seo:
       value: Christopher David Erazo Herrera
       keyName: property
     - name: 'og:description'
-      value: The preview of the Starter theme
+      value: |
+        Desarrollador de Software
       keyName: property
     - name: 'og:image'
       value: /images/seo.png
