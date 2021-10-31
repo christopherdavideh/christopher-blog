@@ -36,6 +36,7 @@ sections:
         image_position: left
         actions: []
         image: /images/ChristopherErazo - copia.jpg
+        title: ¿Quién soy?
       - title: lorem-ipsum
         content: >
           ### Proyectos recientes
