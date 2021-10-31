@@ -70,7 +70,7 @@ sections:
     title: What's New
     show_recent: true
     recent_count: 3
-  - title: lorem-ipsum
+  - title: Contacto
     type: contact_section
 seo:
   title: Stackbit Starter Theme
