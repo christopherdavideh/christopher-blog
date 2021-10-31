@@ -15,7 +15,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-        align: right
+        align: left
         image_alt: profile_image
         image_position: right
         actions: []
