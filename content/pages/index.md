@@ -71,7 +71,7 @@ sections:
     show_recent: true
     recent_count: 3
   - title: Contacto
-    subtitle: Escribeme para mas información
+    subtitle: Escríbeme para mas información
     actions:
       - label: lorem-ipsum
         url: /contact
