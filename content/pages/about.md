@@ -4,6 +4,9 @@ sections:
   - title: ¿Quién es Christopher David Erazo Herrera?
     features:
       - content: >
+          ### ¿Quién soy?
+
+
           Ecuatoriano, originario de Quito, trabajo de forma independiente o
           como freelance, realizando pequeños proyectos de desarrollo web para
           pequeñas empresas o pequeños emprendimientos que se quieren dar a
