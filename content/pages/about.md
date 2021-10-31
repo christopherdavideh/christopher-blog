@@ -29,8 +29,7 @@ sections:
         actions: []
         image: /images/ChristopherErazo - copia.jpg
         title: ¿Quién soy?
-      - title: lorem-ipsum
-        content: >
+      - content: >
           ### Especialidades
 
 
