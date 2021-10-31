@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Christopher David Erazo Herrera
-    subtitle: Desarrollador de Software
+    subtitle: 'Desarrollador de Software - Estudiante en '
     actions:
       - label: Learn More
         url: /features
