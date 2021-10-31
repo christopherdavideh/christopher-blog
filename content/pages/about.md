@@ -57,7 +57,7 @@ sections:
             style: secondary
             new_window: false
             no_follow: false
-        image: /images/hero.svg
+        image: /images/fondo_home.png
     type: features_section
 seo:
   title: Who We Are
