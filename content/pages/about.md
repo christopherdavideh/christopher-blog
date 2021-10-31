@@ -17,7 +17,7 @@ sections:
           - dolor sit amet
         align: left
         image_alt: profile_image
-        image_position: left
+        image_position: right
         actions: []
         image: /images/ChristopherErazo - copia.jpg
     type: features_section
