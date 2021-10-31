@@ -5,6 +5,7 @@ sections:
     title: ¿Quién es Christopher David Erazo Herrera?
     team:
       - content/data/team/dianne-ameter.yaml
+      - content/data/team/person-ksqexsw8j.json
   - type: hero_section
     title: Who We Are
     align: center
