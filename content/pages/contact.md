@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Contacto
     align: center
-    subtitle: De
+    subtitle: Ingresa tus datos para ponerte en contacto conmigo
   - type: contact_section
 seo:
   title: Contact
