@@ -107,7 +107,11 @@ seo:
     - name: 'twitter:title'
       value: Christopher David Erazo Herrera
     - name: 'twitter:description'
-      value: The preview of the Starter theme
+      value: >-
+        ------    Desarrollador de Software  
+        ------                                                                                    
+
+        Más información entra aquí
     - name: 'twitter:image'
       value: /images/seo.png
       relativeUrl: true
