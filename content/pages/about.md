@@ -48,17 +48,14 @@ sections:
             no_follow: false
         image: /images/ChristopherErazo - copia.jpg
       - title: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Proyectos recientes
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          Me apasiona escribir y crear contenido sobre ReactJS en arepa.dev y en
+          este blog donde escribo de JavaScript y las conferencias que imparto.
         align: left
         image_alt: lorem-ipsum
         image_position: right
