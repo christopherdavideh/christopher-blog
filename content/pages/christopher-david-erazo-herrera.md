@@ -60,7 +60,7 @@ sections:
         image: /images/fondo-5d017588.gif
     type: features_section
 seo:
-  title: Who We Are
+  title: Quién es Christopher David Erazo Herrera
   description: >-
     Desarrollador Web con más de un año de experiencia, trabajo como freelance
     realizando proyectos de desarrollo web para pequeños emprendimientos que
