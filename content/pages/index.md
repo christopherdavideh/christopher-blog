@@ -115,6 +115,6 @@ seo:
   description: >
     Desarrollador Web con más de un año de experiencia, trabajo como freelance
     realizando proyectos de desarrollo web para pequeños emprendimientos que
-    quieren dar a conocerse en la Web.
+    quieren...
 layout: advanced
 ---
