@@ -29,7 +29,7 @@ sections:
         actions:
           - label: lorem-ipsum
             url: '#'
-            style: link
+            style: secondary
             new_window: false
             no_follow: false
         image: /images/ChristopherErazo - copia.jpg
