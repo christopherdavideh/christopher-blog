@@ -93,6 +93,7 @@ seo:
       value: |+
         Desarrollador de Software
 
+
       keyName: property
     - name: 'og:image'
       value: /images/seo.png
