@@ -49,7 +49,7 @@ sections:
         actions:
           - label: Ver Proyectos
             url: /features
-            style: link
+            style: secondary
             new_window: false
             no_follow: false
     type: features_section
