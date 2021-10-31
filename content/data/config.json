@@ -64,7 +64,7 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; <strong>christopherdavideh</strong>. All rights reserved."
+        "content": "<h4>&copy; <strong>christopherdavideh</strong>. All rights reserved."
     },
     "domain": "https://christopher-blog-df3dc.netlify.app",
     "favicon": "/images/LOGO.png"
