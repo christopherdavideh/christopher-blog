@@ -91,7 +91,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: |+
-        Desarrollador de Software
+        Desarrollador de Software 
+        Más información entra aquí
 
 
       keyName: property
