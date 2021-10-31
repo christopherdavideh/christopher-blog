@@ -23,7 +23,7 @@ sections:
       background_image_size: cover
       background_image_repeat: no-repeat
   - type: features_section
-    title: Features
+    title: Proyectos
     features:
       - title: Feature 1
         content: >-
