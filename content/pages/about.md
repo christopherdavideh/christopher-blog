@@ -15,10 +15,6 @@ sections:
           tecnologías particularmente por React y hoy en día descubriendo.
 
 
-          ### Especialidades
-
-
-          PHP, Python, JavaScript, C#, GitHub.
 
 
           ### Trayectoria
