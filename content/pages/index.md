@@ -22,7 +22,7 @@ sections:
       background_color: blue
       background_image: /images/fondo.gif
       background_image_opacity: 60
-      background_image_size: cover
+      background_image_size: auto
       background_image_repeat: no-repeat
   - type: features_section
     title: Features
