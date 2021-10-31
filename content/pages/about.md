@@ -3,7 +3,7 @@ title: Sobre mí
 sections:
   - title: ¿Quién es Christopher David Erazo Herrera?
     features:
-      - title: ¿
+      - title: ¿Quién soy
         content: >-
           ## Lorem ipsum
 
