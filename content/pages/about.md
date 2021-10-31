@@ -4,6 +4,12 @@ sections:
   - type: hero_section
     title: Who We Are
     align: center
+  - type: team_section
+    title: Our Team
+    team:
+      - content/data/team/dianne-ameter.yaml
+      - content/data/team/eleanor-carr.yaml
+      - content/data/team/hanson-deck.yaml
   - type: content_section
     content: >-
       Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
@@ -18,12 +24,6 @@ sections:
       Egestas tellus rutrum tellus pellentesque eu. Auctor augue mauris augue
       neque. Lectus arcu bibendum at varius vel pharetra. Enim sed faucibus
       turpis in eu mi bibendum neque egestas.
-  - type: team_section
-    title: Our Team
-    team:
-      - content/data/team/dianne-ameter.yaml
-      - content/data/team/eleanor-carr.yaml
-      - content/data/team/hanson-deck.yaml
 seo:
   title: Who We Are
   description: This is the about us page
