@@ -47,7 +47,7 @@ sections:
         image_alt: lorem-ipsum
         image_position: right
         actions:
-          - label: lorem-ipsum
+          - label: Ver Proyectos
             url: '#'
             style: link
             new_window: false
