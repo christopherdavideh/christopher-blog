@@ -7,7 +7,7 @@ sections:
           Ecuatoriano, originario de Quito, trabajo de forma independiente o
           como freelance, realizando pequeños proyectos de desarrollo web para
           pequeñas empresas o pequeños emprendimientos que se quieren dar a
-          conocer en la Web
+          conocer en la Web.
 
 
           Soy un apasionado por las tecnologías de desarrollo de software, hoy
