@@ -15,7 +15,7 @@ sections:
         style: secondary
     align: left
     image: /images/ChristopherErazo - copia.jpg
-    image_alt: Hero placeholder image
+    image_alt: profile_logo
     image_position: right
     has_background: true
     background:
