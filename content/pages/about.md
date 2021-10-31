@@ -5,6 +5,7 @@ sections:
     title: ¿Quién es Christopher David Erazo Herrera?
     team:
       - content/data/team/person-ksqexsw8j.json
+      - content/data/team/person-9vxovqeqg.json
   - type: hero_section
     title: Who We Are
     align: center
