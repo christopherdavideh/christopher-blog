@@ -4,24 +4,31 @@ sections:
   - title: ¿Quién es Christopher David Erazo Herrera?
     features:
       - title: ¿Quién soy?
-        content: >+
-          Mexicano, originario de Torreón Coahuila, actualmente viviendo en
-          Colombia, trabajo como Foundation Layer en Platzi, empresa dedicada a
-          la educación online, padre del Bebeloper y un apasionado de la
-          enseñanza en línea.
+        content: >
+          Ecuatoriano, originario de Quito, trabajo de forma independiente o
+          como freelance, realizando pequeños proyectos de desarrollo web para
+          pequeñas empresas o pequeños emprendimientos que se quieren dar a
+          conocer en la Web
 
 
           Soy líder de comunidades, participando fuertemente en la comunidad de
           Facebook Developer Circles Bogotá. Soy un apasionado por las
-          tecnologías particularmente por React y hoy en día descubriendo y
-          evangelizando sobre Svelte.dev.
+          tecnologías particularmente por React y hoy en día descubriendo.
 
 
           ### Especialidades
 
 
-          JavaScript, Svelte, React, Node, GitHub.
+          PHP, Python, JavaScript, C#, GitHub.
 
+
+          ### Trayectoria
+
+
+          Desarrollador Web con más de 1 año de experiencia, creando mi primera
+          página web en el año 2019, Actualmente sigo potenciando mis
+          conocimientos y aprendiendo nuevas tecnologías de desarrollo en
+          Platzi.com.
         align: left
         image_alt: profile_image
         image_position: left
