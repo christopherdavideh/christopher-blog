@@ -1,15 +1,15 @@
 ---
 title: Who We Are
 sections:
-  - type: hero_section
-    title: Who We Are
-    align: center
   - type: team_section
     title: Our Team
     team:
       - content/data/team/dianne-ameter.yaml
       - content/data/team/eleanor-carr.yaml
       - content/data/team/hanson-deck.yaml
+  - type: hero_section
+    title: Who We Are
+    align: center
   - type: content_section
     content: >-
       Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
