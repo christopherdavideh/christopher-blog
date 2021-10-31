@@ -70,8 +70,6 @@ sections:
     title: What's New
     show_recent: true
     recent_count: 3
-  - title: Contacto
-    type: contact_section
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
