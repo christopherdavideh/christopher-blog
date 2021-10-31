@@ -49,7 +49,7 @@ sections:
         image: /images/ChristopherErazo - copia.jpg
       - title: lorem-ipsum
         content: >
-          ## Proyectos recientes
+          ### Proyectos recientes
 
 
           Me apasiona escribir y crear contenido sobre ReactJS en arepa.dev y en
