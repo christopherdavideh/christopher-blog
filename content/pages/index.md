@@ -8,7 +8,7 @@ sections:
       - label: Leer más
         url: /about
         style: primary
-      - label: Contact Us
+      - label: Contacto
         url: /contact
         style: secondary
     align: left
