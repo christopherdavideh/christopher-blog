@@ -22,7 +22,7 @@
             {
                 "label": "Contacto",
                 "url": "/contact",
-                "style": "link"
+                "style": "secondary"
             }
         ],
         "logo": "/images/LOGO.png",
