@@ -106,10 +106,9 @@ seo:
       value: Christopher David Erazo Herrera
     - name: 'twitter:description'
       value: >-
-        ------    Desarrollador de Software  
-        ------                                                                                    
-
-        Más información entra aquí
+        Desarrollador Web con más de un año de experiencia, trabajo como
+        freelance realizando proyectos de desarrollo web para pequeños
+        emprendimientos que quieren...
     - name: 'twitter:image'
       value: /images/seo.png
       relativeUrl: true
