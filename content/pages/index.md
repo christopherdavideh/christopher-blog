@@ -80,7 +80,7 @@ sections:
     background_color: blue
     type: cta_section
 seo:
-  title: CDEH - Desarrollador de Software
+  title: Quién es Christopher David Erazo Herrera
   extra:
     - name: 'og:type'
       value: website
