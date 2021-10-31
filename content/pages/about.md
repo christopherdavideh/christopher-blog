@@ -55,22 +55,6 @@ sections:
             new_window: false
             no_follow: false
         image: /images/ChristopherErazo - copia.jpg
-      - title: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        align: left
-        image_alt: lorem-ipsum
-        image_position: left
-        actions: []
     type: features_section
 seo:
   title: Who We Are
