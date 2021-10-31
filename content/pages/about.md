@@ -34,6 +34,14 @@ sections:
         title: ¿Quién soy?
       - title: lorem-ipsum
         content: >
+          ### Especialidades
+
+
+          PHP, Python, JavaScript, C#, GitHub.
+
+
+
+
           ### Proyectos recientes
 
 
