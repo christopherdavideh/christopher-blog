@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Christopher David Erazo Herrera
-    subtitle: 'Desarrollador de Software - Estudiante en <a>@Platzi</a> '
+    subtitle: 'Desarrollador de Software - Estudiante en <a>@Platzi '
     actions:
       - label: Learn More
         url: /features
