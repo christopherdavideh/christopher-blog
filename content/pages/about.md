@@ -10,11 +10,8 @@ sections:
           conocer en la Web
 
 
-          Soy líder de comunidades, participando fuertemente en la comunidad de
-          Facebook Developer Circles Bogotá. Soy un apasionado por las
-          tecnologías particularmente por React y hoy en día descubriendo.
-
-
+          Soy un apasionado por las tecnologías de desarrollo de software, hoy
+          en día estoy capacitandome en Python y JavaScript.
 
 
           ### Trayectoria
