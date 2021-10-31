@@ -3,7 +3,7 @@ title: Features
 sections:
   - type: hero_section
     title: Portafolio
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: Eston son los proyectos que he realizado como desarrollador de software
     align: center
   - type: features_section
     features:
