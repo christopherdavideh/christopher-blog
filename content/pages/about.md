@@ -1,5 +1,5 @@
 ---
-title: Who We Are
+title: Sobre mí
 sections:
   - type: team_section
     title: ¿Quién es Christopher David Erazo Herrera?
