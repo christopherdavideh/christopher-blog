@@ -81,7 +81,6 @@ sections:
     type: cta_section
 seo:
   title: Chris
-  description: The preview of the Starter theme
   extra:
     - name: 'og:type'
       value: website
