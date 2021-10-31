@@ -1,9 +1,6 @@
 ---
 title: Sobre mí
 sections:
-  - type: hero_section
-    title: Who We Are
-    align: center
   - type: content_section
     content: >-
       Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
