@@ -72,7 +72,12 @@ sections:
     recent_count: 3
   - title: lorem-ipsum
     subtitle: lorem-ipsum
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
     has_background: true
     background_color: blue
     type: cta_section
