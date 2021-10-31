@@ -19,6 +19,7 @@ sections:
         image_alt: lorem-ipsum
         image_position: left
         actions: []
+        image: /images/ChristopherErazo - copia.jpg
     type: features_section
 seo:
   title: Who We Are
