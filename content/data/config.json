@@ -69,6 +69,13 @@
                 "style": "link",
                 "new_window": false,
                 "no_follow": false
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false
             }
         ],
         "content": "<h5>&copy; <strong>christopherdavideh</strong>. All rights reserved.</h5>"
