@@ -52,6 +52,11 @@ sections:
             style: link
             new_window: false
             no_follow: false
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            new_window: false
+            no_follow: false
     type: features_section
 seo:
   title: Who We Are
