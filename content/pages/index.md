@@ -6,7 +6,7 @@ sections:
     subtitle: 'Desarrollador de Software - Estudiante en @Platzi '
     actions:
       - label: Leer más
-        url: /christopher-david-erazo-herrera/
+        url: /christopher-david-erazo-herrera
         style: primary
       - label: Contacto
         url: /contact
