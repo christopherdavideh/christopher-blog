@@ -28,7 +28,7 @@ sections:
         image_position: left
         actions:
           - label: Mi Currículum
-            url: '#'
+            url: 'https://cutt.ly/cv_christopher_erazo'
             style: secondary
             new_window: false
             no_follow: false
