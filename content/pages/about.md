@@ -2,7 +2,7 @@
 title: Who We Are
 sections:
   - type: team_section
-    title: ¿Quién es Christopher David Erazo Herrers?
+    title: ¿Quién es Christopher David Erazo Herrera?
     team:
       - content/data/team/dianne-ameter.yaml
       - content/data/team/eleanor-carr.yaml
