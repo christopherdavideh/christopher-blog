@@ -27,7 +27,7 @@ sections:
         image_alt: profile_image
         image_position: left
         actions:
-          - label: 'Mi '
+          - label: Mi Curriculum
             url: '#'
             style: secondary
             new_window: false
