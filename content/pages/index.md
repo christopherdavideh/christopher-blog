@@ -87,7 +87,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Starter Theme
+      value: Christopher David Erazo Herrera
       keyName: property
     - name: 'og:description'
       value: The preview of the Starter theme
