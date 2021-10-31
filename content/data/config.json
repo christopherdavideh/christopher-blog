@@ -30,7 +30,8 @@
                 "style": "primary"
             }
         ],
-        "logo": "/images/LOGO.png"
+        "logo": "/images/LOGO.png",
+        "logo_alt": "cdeh_logo"
     },
     "footer": {
         "has_nav": true,
