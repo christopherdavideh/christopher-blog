@@ -80,7 +80,7 @@ sections:
     background_color: blue
     type: cta_section
 seo:
-  title: Stackbit Starter Theme
+  title: Chris
   description: The preview of the Starter theme
   extra:
     - name: 'og:type'
