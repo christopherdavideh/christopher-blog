@@ -26,7 +26,12 @@ sections:
         align: left
         image_alt: profile_image
         image_position: left
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            new_window: false
+            no_follow: false
         image: /images/ChristopherErazo - copia.jpg
         title: ¿Quién soy?
       - content: >
