@@ -90,8 +90,10 @@ seo:
       value: Christopher David Erazo Herrera
       keyName: property
     - name: 'og:description'
-      value: |+
-        Desarrollador de Software 
+      value: >+
+        ------    Desarrollador de Software  
+        ------                                                                                    
+
         Más información entra aquí
 
 
