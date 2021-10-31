@@ -46,6 +46,12 @@
         "has_social": true,
         "social_links": [
             {
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/in/christopherdavideh/",
+                "style": "link",
+                "new_window": true
+            },
+            {
                 "label": "Twitter",
                 "url": "https://twitter.com/christopdavideh",
                 "style": "link",
@@ -54,12 +60,6 @@
             {
                 "label": "GitHub",
                 "url": "https://github.com/christopherdavideh",
-                "style": "link",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/in/christopherdavideh/",
                 "style": "link",
                 "new_window": true
             },
