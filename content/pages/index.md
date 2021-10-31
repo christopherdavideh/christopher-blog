@@ -5,7 +5,7 @@ sections:
     title: Christopher David Erazo Herrera
     subtitle: 'Desarrollador de Software - Estudiante en @Platzi '
     actions:
-      - label: Leer m
+      - label: Leer más
         url: /features
         style: primary
       - label: Contact Us
