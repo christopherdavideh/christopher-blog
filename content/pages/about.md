@@ -6,7 +6,6 @@ sections:
     team:
       - content/data/team/dianne-ameter.yaml
       - content/data/team/eleanor-carr.yaml
-      - content/data/team/hanson-deck.yaml
   - type: hero_section
     title: Who We Are
     align: center
