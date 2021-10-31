@@ -19,7 +19,7 @@ sections:
         image_alt: profile_image
         image_position: left
         actions:
-          - label: Mi Portafolio
+          - label: Portafolio
             url: /features
             style: secondary
             new_window: false
