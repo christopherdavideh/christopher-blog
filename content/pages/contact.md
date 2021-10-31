@@ -4,6 +4,7 @@ sections:
   - type: hero_section
     title: Contacto
     align: center
+    subtitle: De
   - type: contact_section
 seo:
   title: Contact
