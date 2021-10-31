@@ -46,7 +46,12 @@ sections:
         align: left
         image_alt: lorem-ipsum
         image_position: right
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            new_window: false
+            no_follow: false
     type: features_section
 seo:
   title: Who We Are
