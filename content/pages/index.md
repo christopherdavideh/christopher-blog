@@ -65,7 +65,7 @@ sections:
             url: /features
             style: secondary
   - type: blog_feed_section
-    title: What's New
+    title: Artículos Recientes
     show_recent: true
     recent_count: 3
   - title: Contacto
