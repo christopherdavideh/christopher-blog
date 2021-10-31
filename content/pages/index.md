@@ -75,7 +75,7 @@ sections:
     actions:
       - label: lorem-ipsum
         url: '#'
-        style: primary
+        style: secondary
         new_window: false
         no_follow: false
     has_background: true
