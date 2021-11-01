@@ -92,7 +92,7 @@ seo:
       value: >+
         Desarrollador Web con más de un año de experiencia, trabajo como
         freelance realizando proyectos de desarrollo web para pequeños
-        emprendimientos que quieren...
+        emprendimientos que quieren..
 
 
       keyName: property
