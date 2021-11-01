@@ -70,23 +70,29 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Who We Are
+      value: Quién es Christopher David Erazo Herrera
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: >-
+        Desarrollador Web con más de un año de experiencia, trabajo como freelance
+        realizando proyectos de desarrollo web para pequeños emprendimientos que
+        quieren...
       keyName: property
     - name: 'og:image'
-      value: images/1.png
+      value: images/seo.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Who We Are
+      value: Quién es Christopher David Erazo Herrera
     - name: 'twitter:description'
-      value: This is the about us page
+      value: >-
+        Desarrollador Web con más de un año de experiencia, trabajo como freelance
+        realizando proyectos de desarrollo web para pequeños emprendimientos que
+        quieren...
     - name: 'twitter:image'
-      value: images/1.png
+      value: images/seo.png
       relativeUrl: true
 layout: advanced
 ---

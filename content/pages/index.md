@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Christopher David Erazo Herrera
 sections:
   - type: hero_section
     title: Christopher David Erazo Herrera
@@ -81,6 +81,10 @@ sections:
     type: cta_section
 seo:
   title: Christopher David Erazo Herrera
+  description: >-
+    Desarrollador Web con más de un año de experiencia, trabajo como freelance
+    realizando proyectos de desarrollo web para pequeños emprendimientos que
+    quieren...
   extra:
     - name: 'og:type'
       value: website
@@ -93,8 +97,6 @@ seo:
         Desarrollador Web con más de un año de experiencia, trabajo como
         freelance realizando proyectos de desarrollo web para pequeños
         emprendimientos que quieren..
-
-
       keyName: property
     - name: 'og:image'
       value: /images/seo.png
@@ -112,9 +114,5 @@ seo:
     - name: 'twitter:image'
       value: /images/seo.png
       relativeUrl: true
-  description: >
-    Desarrollador Web con más de un año de experiencia, trabajo como freelance
-    realizando proyectos de desarrollo web para pequeños emprendimientos que
-    quieren...
 layout: advanced
 ---
