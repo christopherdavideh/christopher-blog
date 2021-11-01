@@ -79,7 +79,7 @@ seo:
         quieren...
       keyName: property
     - name: 'og:image'
-      value: images/seo.png
+      value: images/ChristopherErazo.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -92,7 +92,7 @@ seo:
         realizando proyectos de desarrollo web para pequeños emprendimientos que
         quieren...
     - name: 'twitter:image'
-      value: images/seo.png
+      value: images/ChristopherErazo.jpg
       relativeUrl: true
 layout: advanced
 ---
