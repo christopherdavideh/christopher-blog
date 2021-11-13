@@ -46,8 +46,7 @@ sections:
           ### Proyectos recientes
 
 
-          Me apasiona escribir y crear contenido sobre ReactJS en arepa.dev y en
-          este blog donde escribo de JavaScript y las conferencias que imparto.
+          Me apasiona escribir y crear contenido ...
         align: left
         image_alt: lorem-ipsum
         image_position: right
