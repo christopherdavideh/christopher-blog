@@ -1,25 +1,23 @@
 ---
-title: Features
+title: Proyectos
 sections:
   - type: hero_section
     title: Portafolio
-    subtitle: Eston son los proyectos que he realizado como desarrollador de software
+    subtitle: Estos son los proyectos que he realizado como Desarrollador de Software.
     align: center
   - type: features_section
     features:
-      - title: Página en Mantenimiento
+      - title: Proyecto Laravel v.9
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Este proyecto esta realizado en laravel 9 un crud de roles y usuarios.
         align: left
-        image: images/feature.svg
+        image: [screencast](https://i.imgur.com/miLzIkJ.gif)
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
-          - label: Learn More
-            url: '#'
-            style: primary
+          - label: Ver Proyecto
+            url: 'https://github.com/christopherdavideh/laverix'
+            style: success
       - title: Feature 2
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
