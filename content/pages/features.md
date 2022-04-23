@@ -34,13 +34,24 @@ sections:
       - title: Pomodoro App
         content: >-
           Aplicacion realizada con Xamarin.Forms que nos permite aplicar la tecnica de pomodoro para maximizar nuestra concentración.
+          <ul>
+          <li>Creacion de Pomodoros</li>
+          <li>Se puede agregar un Titulo para hacer referencia</li>
+          <li>Se puede configurar el numero de pomodoros que se va a ejecutar</li>
+          <li>Se puede configurar el tiempo que dura el pomodoro</li>
+          <li>Se puede configurar el tiempo de pausa</li>
+          <li>Se puede finalizar los pomodoros cuando lo desees</li>
+          <li>La data se guarda en el Diccionario de recursos propios de la aplicacion</li>
+          <li>Utilizamos XamrinShell</li>
+          <li>Persolanizamos el Control de CircularProgress para Android</li>
+          </ul>
         align: left
         image: images/app_dev.gif
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
           - label: Ver Proyecto
-            url: '#'
+            url: 'https://github.com/christopherdavideh/PomodoroApp'
             style: primary
       - title: VillaPlatzi
         content: >-
