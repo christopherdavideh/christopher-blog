@@ -25,39 +25,33 @@ sections:
   - type: features_section
     title: Proyectos
     features:
-      - title: En Mantenimiento
+      - title: Proyecto Laravel 9.0
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Aplicación web desarrollada con las ultimas funcionalidades quenos ofrece Laravel 9.
         align: left
-        image: images/feature.svg
+        image: images/laravel.gif
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Proximamente
+      - title: Pomodoro App
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Aplicacion realizada con Xamarin.Forms que nos permite aplicar la tecnica de pomodoro para maximizar nuestra concentración. Utilizamos el patron de diseño MVVM.
         align: left
-        image: images/feature.svg
+        image: images/app_dev.gif
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
           - label: Learn More
             url: /features
             style: secondary
-      - title: En Mantenimiento
+      - title: VillaPlatzi
         content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+          Proyecto realizado con HTML5, CSS, JavaScript, Canvas y Bootstrapt 5.
         align: left
-        image: images/feature.svg
+        image: images/developer.gif
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
