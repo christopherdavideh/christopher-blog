@@ -18,7 +18,7 @@ sections:
     has_background: true
     background:
       background_color: blue
-      background_image: /images/fondo.gif
+      background_image: /images/fondos.gif
       background_image_opacity: 60
       background_image_size: cover
       background_image_repeat: no-repeat
