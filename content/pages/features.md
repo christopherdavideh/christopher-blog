@@ -31,19 +31,21 @@ sections:
           - label: Ver Proyecto
             url: 'https://github.com/christopherdavideh/laverix'
             style: secondary
+            new_window: true
+            no_follow: true
       - title: Pomodoro App
         content: >-
           Aplicacion realizada con Xamarin.Forms que nos permite aplicar la tecnica de pomodoro para maximizar nuestra concentración.
           <ul>
           <li>Creacion de Pomodoros</li>
           <li>Se puede agregar un Titulo para hacer referencia</li>
-          <li>Se puede configurar el numero de pomodoros que se va a ejecutar</li>
-          <li>Se puede configurar el tiempo que dura el pomodoro</li>
-          <li>Se puede configurar el tiempo de pausa</li>
-          <li>Se puede finalizar los pomodoros cuando lo desees</li>
+          <li>Configuración del numero de pomodoros que se va a ejecutar</li>
+          <li>Configuración del tiempo que dura el pomodoro</li>
+          <li>Configuración del tiempo de pausa</li>
+          <li>Finalización del pomodoro cuando se requiera</li>
           <li>La data se guarda en el Diccionario de recursos propios de la aplicacion</li>
-          <li>Utilizamos XamrinShell</li>
-          <li>Persolanizamos el Control de CircularProgress para Android</li>
+          <li>Aplicación de Xamrin Shell</li>
+          <li>Personalización del Control de CircularProgress para Android</li>
           </ul>
         align: left
         image: images/app_dev.gif
@@ -53,6 +55,8 @@ sections:
           - label: Ver Proyecto
             url: 'https://github.com/christopherdavideh/PomodoroApp'
             style: primary
+            new_window: true
+            no_follow: true
       - title: VillaPlatzi
         content: >-
           Proyecto realizado con HTML5, CSS, JavaScript, Canvas y Bootstrapt 5.
@@ -64,6 +68,8 @@ sections:
           - label: Ver Proyecto
             url: 'https://github.com/christopherdavideh/Manejo_del_DOM'
             style: secondary
+            new_window: true
+            no_follow: true
 seo:
   title: Proyectos
   description: This is the features page

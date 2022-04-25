@@ -12,7 +12,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: /images/ChristopherErazo - copia.jpg
+    image: /images/ChristopherErazo.png
     image_alt: profile_logo
     image_position: right
     has_background: true
@@ -29,7 +29,7 @@ sections:
         content: >-
           Aplicación web desarrollada con las ultimas funcionalidades quenos ofrece Laravel 9.
         align: left
-        image: images/laravel.gif
+        image: images/laravel.svg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
@@ -40,7 +40,7 @@ sections:
         content: >-
           Aplicacion realizada con Xamarin.Forms que nos permite aplicar la tecnica de pomodoro para maximizar nuestra concentración. Utilizamos el patron de diseño MVVM.
         align: left
-        image: images/app_dev.gif
+        image: images/xamarin.svg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
@@ -51,7 +51,7 @@ sections:
         content: >-
           Proyecto realizado con HTML5, CSS, JavaScript, Canvas y Bootstrapt 5.
         align: left
-        image: images/developer.gif
+        image: images/javascript.svg
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:

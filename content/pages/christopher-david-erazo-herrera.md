@@ -27,38 +27,61 @@ sections:
         image_alt: profile_image
         image_position: left
         actions:
-          - label: Mi Currículum
-            url: 'https://cutt.ly/cv_christopher_erazo'
+          - label: Ver Currículum
+            url: 'https://cutt.ly/hv_christopher_erazo'
             style: secondary
-            new_window: false
-            no_follow: false
-        image: /images/ChristopherErazo - copia.jpg
-        title: ¿Quién soy?
+            new_window: true
+            no_follow: true
+        image: /images/ChristopherErazo.png
       - content: >
+          
+      
           ### Especialidades
 
-
-          PHP, Python, JavaScript, C#, GitHub.
-
-
-
-
-          ### Proyectos recientes
-
-
-          Me apasiona escribir y crear contenido sobre ReactJS en arepa.dev y en
-          este blog donde escribo de JavaScript y las conferencias que imparto.
+            <table>
+              <tr>
+                <th>Frontend</th>
+                <th>Backend</th>
+              </tr>
+              <tr>
+                <td>
+                  <ul> <li>HTML5</li><li>CSS</li><li>JavaScript</li><li>Bootstrapt</li></ul>
+                </td>
+                <td>
+                  <ul> <li>PHP</li><li>Python</li><li>JAVA</li><li>C#</li></ul>
+                </td>
+              </tr>  
+            </table>
+            <table>
+              <tr>
+                <th width="50%">Base de Datos</th>
+                <th width="40%">Frameworks</th>
+              </tr>
+              <tr>
+                <td>
+                  <ul> <li>Postgres</li><li>MySQL</li><li>SQL Server</li></ul>
+                </td>
+                <td>
+                  <ul> <li>Laravel</li><li>ASP.Net Core | MVC</li></ul>
+                </td>
+              </tr>  
+            </table>
         align: left
         image_alt: lorem-ipsum
         image_position: right
-        actions:
-          - label: Ver Proyectos
-            url: /features
-            style: secondary
-            new_window: false
-            no_follow: false
-        image: /images/fondo-5d017588.gif
+        image: /images/code.gif
     type: features_section
+  - title: Proyectos recientes
+    subtitle: He desarrollado algunos proyectos que estan disponibles en GitHub.
+    actions:
+      - label: Ver Proyectos
+        url: /features
+        style: primary
+        new_window: false
+        no_follow: false
+    has_background: true
+    background_color: blue
+    type: cta_section
 seo:
   title: Quién es Christopher David Erazo Herrera
   description: >-
@@ -79,7 +102,7 @@ seo:
         quieren...
       keyName: property
     - name: 'og:image'
-      value: images/seo.png
+      value: images/ChristopherErazo.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -92,7 +115,7 @@ seo:
         realizando proyectos de desarrollo web para pequeños emprendimientos que
         quieren...
     - name: 'twitter:image'
-      value: images/seo.png
+      value: images/ChristopherErazo.png
       relativeUrl: true
 layout: advanced
 ---
