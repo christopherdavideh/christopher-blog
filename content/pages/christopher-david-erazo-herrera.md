@@ -28,7 +28,7 @@ sections:
         image_position: left
         actions:
           - label: Ver Currículum
-            url: 'https://cutt.ly/hv_christopher_erazo'
+            url: 'https://cutt.ly/HV_ChristopherErazo'
             style: secondary
             new_window: true
             no_follow: true

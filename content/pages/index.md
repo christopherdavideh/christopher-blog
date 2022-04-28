@@ -33,7 +33,7 @@ sections:
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
-          - label: Learn More
+          - label: Ver más
             url: /features
             style: secondary
       - title: Pomodoro App
@@ -44,7 +44,7 @@ sections:
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
-          - label: Learn More
+          - label: Ver más
             url: /features
             style: secondary
       - title: VillaPlatzi
@@ -55,7 +55,7 @@ sections:
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
-          - label: Learn More
+          - label: Ver más
             url: /features
             style: secondary
   - type: blog_feed_section
