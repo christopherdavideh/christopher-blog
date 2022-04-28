@@ -4,39 +4,25 @@ sections:
   - title: ¿Quién es Christopher David Erazo Herrera?
     features:
       - content: >
-          Ecuatoriano, originario de Quito, trabajo de forma independiente o
-          como freelance, realizando pequeños proyectos de desarrollo web para
-          pequeñas empresas o pequeños emprendimientos que se quieren dar a
-          conocer en la Web.
+          Soy Ecuatoriano, originario de Quito, autodidacta y un apasionado por las tecnologías de desarrollo de software que le gusta seguir descubriendo nuevas cosas, hoy en día estoy potenciando mis conocimientos y habilidades en Python JavaScript y React en [Platzi.com](http://platzi.com).
+
+          #### Trayectoria
 
 
-          Soy un apasionado por las tecnologías de desarrollo de software, hoy
-          en día estoy capacitandome en Python y JavaScript.
+          Desarrollador de Software con más de un año de experiencia en Desarrollo de Aplicaciones Web. He participado en el desarrollo de aplicaciones móviles con Xamarin.Forms y algunas aplicaciones web usando tecnologías Micrisoft como ASP.NET Core, Framework y MVC. Anterior a esto, adquirí experiencia en el área de Atención al Cliente y Ventas donde puede desarrollar habilidades como trabajar bajo presión, trabajo en equipo, buena actitud y proactividad.
+          
+           Mi propósito es seguir creciendo profesionalmente e ir adquiriendo experiencia ya sea dentro de una Empresa de Desarrollo de Software o de manera independiente creando mi propia Startup.
+          
 
-
-          ### Trayectoria
-
-
-          Desarrollador Web con más de 1 año de experiencia, creando mi primer
-          aplicativo web en el año 2019 para la empresa Produpack. Actualmente
-          desarrollo páginas web para emprendimientos de algunos conocidos que
-          desean impulsar sus ideas y dar conocer sus servicios en la Web y
-          también sigo potenciando mis conocimientos y aprendiendo nuevas
-          tecnologías de desarrollo en Platzi.com.
+          Actualmente trabajo de forma independiente o como freelance realizando pequeños proyectos de Desarrollo Web para algunos emprendimientos que desean impulsar sus ideas y dar conocer sus servicios Online.
         align: left
         image_alt: profile_image
         image_position: left
-        actions:
-          - label: Ver Currículum
-            url: 'https://cutt.ly/HV_ChristopherErazo'
-            style: secondary
-            new_window: true
-            no_follow: true
         image: /images/ChristopherErazo.png
       - content: >
           
       
-          ### Especialidades
+          #### Especialidades
 
             <table>
               <tr>
@@ -69,6 +55,14 @@ sections:
         align: left
         image_alt: lorem-ipsum
         image_position: right
+        
+        actions:
+          - label: Ver Currículum
+            url: 'https://cutt.ly/Hv_ChristopherErazo'
+            style: secondary
+            new_window: true
+            no_follow: true
+            align: center
         image: /images/code.gif
     type: features_section
   - title: Proyectos recientes

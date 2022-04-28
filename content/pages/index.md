@@ -3,7 +3,7 @@ title: Christopher David Erazo Herrera
 sections:
   - type: hero_section
     title: Christopher David Erazo Herrera
-    subtitle: 'Desarrollador de Software - Estudiante en @Platzi '
+    subtitle: 'Desarrollador de Software - No paro de aprender en @Platzi '
     actions:
       - label: Leer más
         url: /christopher-david-erazo-herrera
@@ -12,14 +12,14 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: /images/ChristopherErazo.png
+    image: /images/ChristopherErazo_1.png
     image_alt: profile_logo
     image_position: right
     has_background: true
     background:
       background_color: blue
-      background_image: /images/fondos.gif
-      background_image_opacity: 60
+      background_image: /images/fondo2.gif
+      background_image_opacity: 70
       background_image_size: cover
       background_image_repeat: no-repeat
   - type: features_section
@@ -47,9 +47,9 @@ sections:
           - label: Ver más
             url: /features
             style: secondary
-      - title: VillaPlatzi
+      - title: Simulador de ATM y Canvas
         content: >-
-          Proyecto realizado con HTML5, CSS, JavaScript, Canvas y Bootstrapt 5.
+          Proyecto desarrollado con HTML5, CSS, JavaScript, Canvas y Bootstrapt 5.
         align: left
         image: images/javascript.svg
         image_alt: Feature 3 placeholder image
@@ -59,7 +59,7 @@ sections:
             url: /features
             style: secondary
   - type: blog_feed_section
-    title: Artículos Recientes
+    title: Artículos Próximamnete
     show_recent: true
     recent_count: 3
   - title: Contacto

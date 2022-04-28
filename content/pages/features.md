@@ -3,7 +3,7 @@ title: Proyectos
 sections:
   - type: hero_section
     title: Portafolio
-    subtitle: Estos son los proyectos que he realizado como Desarrollador de Software.
+    subtitle: 
     align: center
   - type: features_section
     features:
@@ -35,7 +35,7 @@ sections:
             no_follow: true
       - title: Pomodoro App
         content: >-
-          Aplicacion realizada con Xamarin.Forms que nos permite aplicar la tecnica de pomodoro para maximizar nuestra concentración.
+          Aplicacion realizada con Xamarin.Forms que nos permite aplicar la tecnica de pomodoro para maximizar nuestra concentración. La app tiene las siguientes funcionalidades:
           <ul>
           <li>Creacion de Pomodoros</li>
           <li>Se puede agregar un Titulo para hacer referencia</li>
@@ -57,9 +57,17 @@ sections:
             style: primary
             new_window: true
             no_follow: true
-      - title: VillaPlatzi
+      - title: Simulador de ATM y Canvas
         content: >-
-          Proyecto realizado con HTML5, CSS, JavaScript, Canvas y Bootstrapt 5.
+          Proyecto realizado con HTML5, CSS, JavaScript, Canvas y Bootstrapt 5. El proyecto tiene las siguientes funcionalidades:
+          <ul>
+          <li>Dibujo en CANVAS ingresando el número de líneas</li>
+          <li>Dibujo libre usando el mouse o las felchas del Teclado</li>
+          <li>Se puede escoger varios colores para dibujar</li>
+          <li>Mini juego en el que podemos controlar al personaje del cerdito con las felchas del teclado</li>
+          <li>Ejemplo en el cual listamos algunos animales aplicando programción orientada a objetos</li>
+          <li>Simulador de las funcionalidades de un Cajero Automático</li>
+          </ul>
         align: left
         image: images/developer.gif
         image_alt: Feature 3 placeholder image

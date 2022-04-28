@@ -11,7 +11,7 @@
             },
             {
                 "label": "Blog",
-                "url": "/blog",
+                "url": "/style-guide",
                 "style": "link"
             },
             {
@@ -48,32 +48,32 @@
             {
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/in/christopherdavideh/",
-                "style": "link",
+                "style": "icon",
                 "new_window": true
             },
             {
                 "label": "Twitter",
                 "url": "https://twitter.com/christopdavideh",
-                "style": "link",
+                "style": "icon",
                 "new_window": true
             },
             {
                 "label": "GitHub",
                 "url": "https://github.com/christopherdavideh",
-                "style": "link",
+                "style": "icon",
                 "new_window": true
             },
             {
                 "label": "Instagram",
                 "url": "https://www.instagram.com/christopherdavideh/",
-                "style": "link",
+                "style": "icon",
                 "new_window": true,
                 "no_follow": false
             },
             {
                 "label": "Facebook",
                 "url": "https://www.facebook.com/christopherdavideh",
-                "style": "link",
+                "style": "icon",
                 "new_window": true,
                 "no_follow": false
             }
