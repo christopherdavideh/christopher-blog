@@ -19,6 +19,22 @@ sections:
         image_alt: profile_image
         image_position: left
         image: /images/ChristopherErazo.png
+    type: features_section
+
+  - title: ¡Ponte en Contacto!
+    subtitle: Siempre estoy buscando nuevas oportunidades desafiantes y emocionantes. Así que no dudes en enviarme un correo electrónico.
+    actions:
+      - label: Enviar mail
+        url: /contact
+        style: info
+        new_window: false
+        no_follow: false
+    has_background: true
+    background_color: green
+    type: cta_section
+    
+  - title:  
+    features:      
       - content: >
           
       
@@ -52,25 +68,25 @@ sections:
                 </td>
               </tr>  
             </table>
-        align: left
+        align: center
         image_alt: lorem-ipsum
         image_position: right
         
         actions:
           - label: Ver Currículum
             url: 'https://cutt.ly/Hv_ChristopherErazo'
-            style: secondary
+            style: linkedin
             new_window: true
             no_follow: true
-            align: center
         image: /images/code.gif
     type: features_section
+
   - title: Proyectos recientes
     subtitle: He desarrollado algunos proyectos que estan disponibles en GitHub.
     actions:
       - label: Ver Proyectos
         url: /features
-        style: primary
+        style: secondary
         new_window: false
         no_follow: false
     has_background: true

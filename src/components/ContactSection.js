@@ -5,7 +5,7 @@ export default class ContactSection extends React.Component {
     render() {
         const section = _.get(this.props, 'section');
         const title = _.get(section, 'title');
-
+        
         return (
             <section className="section">
                 <div className="container container--md">
@@ -17,38 +17,31 @@ export default class ContactSection extends React.Component {
                         </div>
                         <input aria-labelledby="honeypot-label" type="hidden" name="form-name" value="contactForm" />
                         <div className="form-group">
-                            <label id="name-label" htmlFor="name">Name</label>
-                            <input aria-labelledby="name-label" type="text" name="name" id="name" placeholder="Your name" required />
+                            <label id="name-label" htmlFor="name">Nombre</label>
+                            <input aria-labelledby="name-label" type="text" name="name" id="name" placeholder="Nombre" required />
                         </div>
                         <div className="form-group">
                             <label id="email-label" htmlFor="email">Email</label>
-                            <input aria-labelledby="email-label" type="email" name="email" id="email" placeholder="Your email" required />
+                            <input aria-labelledby="email-label" type="email" name="email" id="email" placeholder="Correo Electrónico" required />
                         </div>
                         <div className="form-group">
-                            <label htmlFor="subject">Subject</label>
-                            <div className="form-select-wrap">
-                                <select name="subject" id="subject">
-                                    <option value="">Please select</option>
-                                    <option value="Business Inquiries">Business Inquiries</option>
-                                    <option value="Sponsorship">Partnerships</option>
-                                    <option value="Other">Other</option>
-                                </select>
-                            </div>
+                            <label id="subject-label" htmlFor="subject">Asunto</label>
+                            <input aria-labelledby="subject-label" type="text" name="subject" id="subject" placeholder="Asunto" required />
                         </div>
                         <div className="form-group">
-                            <label id="message-label" htmlFor="message">Message</label>
-                            <textarea aria-labelledby="message-label" name="message" id="message" rows="5" placeholder="Your message" />
-                        </div>
-                        <div className="form-group form-checkbox">
-                            <input aria-labelledby="consent-label" type="checkbox" name="consent" id="consent" />
-                            <label id="consent-label" htmlFor="consent">I understand that this form is storing my submitted information so I can be contacted.</label>
+                            <label id="message-label" htmlFor="message">Mensaje</label>
+                            <textarea aria-labelledby="message-label" name="message" id="message" rows="5" placeholder="Mensaje..." />
                         </div>
                         <div className="form-submit">
-                            <button type="submit" className="button">Get In Touch</button>
+                            <center><button type="submit" class="btn--linkedin" id="enviar_correo">Enviar correo</button></center>
                         </div>
                     </form>
-                </div>
-            </section>
-        );
+                </div>  
+                <script dangerouslySetInnerHTML={{
+                    __html: "const btn_envio = document.getElementById(\"enviar_correo\"); btn_envio.addEventListener(\"click\", function(e){ e.preventDefault(); const email = document.getElementById(\"email\").value; const nombre = document.getElementById(\"name\").value; const subject = document.getElementById(\"subject\").value; const message = document.getElementById(\"message\").value; window.location.href = `mailto:christopher.erazo.herrera@gmail.com?subject=${subject}&body=Nombre%3A${nombre}%0ACorreo%3A${email}%0AMensaje%3A${message}`; window.location.href = \"https://christopherdavideh.com/contact/\";});"
+                }}/>              
+            </section>            
+        );        
     }
+    
 }

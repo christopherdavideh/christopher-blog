@@ -7,7 +7,7 @@ sections:
     actions:
       - label: Leer más
         url: /christopher-david-erazo-herrera
-        style: primary
+        style: linkedin
       - label: Contacto
         url: /contact
         style: secondary
@@ -35,7 +35,7 @@ sections:
         actions:
           - label: Ver más
             url: /features
-            style: secondary
+            style: laravel
       - title: Pomodoro App
         content: >-
           Aplicacion realizada con Xamarin.Forms que nos permite aplicar la tecnica de pomodoro para maximizar nuestra concentración. Utilizamos el patron de diseño MVVM.
@@ -46,7 +46,7 @@ sections:
         actions:
           - label: Ver más
             url: /features
-            style: secondary
+            style: twitter
       - title: Simulador de ATM y Canvas
         content: >-
           Proyecto desarrollado con HTML5, CSS, JavaScript, Canvas y Bootstrapt 5.
@@ -57,15 +57,15 @@ sections:
         actions:
           - label: Ver más
             url: /features
-            style: secondary
+            style: javascript
   - type: blog_feed_section
     title: Artículos Próximamnete
     show_recent: true
     recent_count: 3
-  - title: Contacto
-    subtitle: Escríbeme para más información
+  - title: ¡Ponte en Contacto!
+    subtitle: Siempre estoy buscando nuevas oportunidades desafiantes y emocionantes. Así que no dudes en enviarme un correo electrónico.
     actions:
-      - label: Contactar
+      - label: Enviar mail
         url: /contact
         style: secondary
         new_window: false

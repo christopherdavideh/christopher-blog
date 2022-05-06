@@ -1,7 +1,7 @@
 /**
  * Styles for dark backgrounds
  */
-.inverse {
+.inverse, .inverse--green {
   color: $color-inverse-text;
 
   a {
@@ -27,6 +27,12 @@
     background-color: $color-inverse-btn-alt-bg;
     border-color: $color-inverse-btn-alt-border;
     color: $color-inverse-btn-alt;
+  }
+
+  .btn--info {
+    background-color: $color-inverse-btn-alt-bg;
+    border-color: $color-inverse-green;
+    color: $color-inverse-green;
   }
 
   .btn--clear {

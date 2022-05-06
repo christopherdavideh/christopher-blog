@@ -1,11 +1,12 @@
 ---
-title: Contact
+title: Contacto
 sections:
   - type: hero_section
-    title: Contacto
     align: center
-    subtitle: Ingresa tus datos para ponerte en contacto conmigo
+    title: Contacto
+    subtitle: No dudes en ingresar tus datos para ponerte en contacto conmigo
   - type: contact_section
+  
 seo:
   title: Contact
   description: This is the contact page

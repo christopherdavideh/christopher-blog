@@ -11,7 +11,15 @@ export default class Action extends React.Component {
         const style = _.get(action, 'style', 'link');
         const classes = classNames({
             'btn': style !== 'link',
-            'btn--secondary': style === 'secondary'
+            'btn--secondary': style === 'secondary',
+            'btn--instagram': style === 'instagram',
+            'btn--github': style === 'github',
+            'btn--twitter': style === 'twitter',
+            'btn--linkedin': style === 'linkedin',
+            'btn--info': style === 'info',
+            'btn--laravel': style === 'laravel',
+            'btn--javascript': style === 'javascript',
+            'btn--facebook': style === 'facebook'
         });
         const newWindow = _.get(action, 'new_window');
         const noFollow = _.get(action, 'no_follow');

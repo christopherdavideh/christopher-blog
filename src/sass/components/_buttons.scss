@@ -8,7 +8,7 @@ input[type="reset"],
 .btn {
   background-color: $color-btn-bg;
   border: 2px solid $color-btn-border;
-  border-radius: 5px;
+  border-radius: 4px;
   box-sizing: border-box;
   color: $color-btn;
   cursor: pointer;
@@ -34,6 +34,64 @@ input[type="reset"],
   background-color: transparent;
   border-color: $color-btn-alt-border;
   color: $color-btn-alt;
+}
+
+.btn--info {
+  background-color: $color-inverse-green;
+  border-color: $color-inverse-green;
+  color: $color-btn;
+}
+
+.btn--laravel {
+  background-color: $color-btn-laravel;
+  border-color: $color-btn-laravel;
+  color: $color-btn;
+}
+
+.btn--javascript {
+  background-color: $color-btn-javascript;
+  border-color: $color-btn-javascript;
+  color: $color-btn;
+}
+
+.btn--facebook {
+  background-color: $color-btn-facebook;
+  border-color: $color-btn-facebook;
+  color: $color-btn;
+}
+
+.btn--github {
+  background-color: $color-btn-github;
+  border-color: $color-btn-github;
+  color: $color-btn;
+}
+
+.btn--twitter {
+  background-color: $color-btn-twitter;
+  border-color: $color-btn-twitter;
+  color: $color-btn;
+}
+
+.btn--linkedin {
+  background-color: $color-btn-linkedin;
+  border-color: $color-btn-linkedin;
+  color: $color-btn;
+}
+
+.btn--instagram {
+  background: radial-gradient(
+      circle farthest-corner at 0% 150%,
+      rgb(255, 225, 125) 0%,
+      rgb(255, 205, 105) 12%,
+      rgb(250, 145, 55) 25%,
+      rgb(235, 65, 65) 41%,
+      transparent 95%
+    ),
+    linear-gradient(-15deg, rgb(35, 75, 215) -10%, rgb(195, 60, 190) 65%);
+  background-size: 120% 120%;
+  animation: GradientBackground 5s ease-out infinite;
+  border-color: rgb(235, 65, 65);
+  color: $color-btn;
 }
 
 .btn--icon {

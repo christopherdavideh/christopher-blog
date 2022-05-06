@@ -5,25 +5,26 @@
         "has_nav": true,
         "nav_links": [
             {
+                "label": "Sobre Mí",
+                "url": "/christopher-david-erazo-herrera",
+                "style": "linkedin"
+            },
+            {
                 "label": "Portafolio",
                 "url": "/features",
-                "style": "link"
+                "style": "linkedin"
             },
             {
                 "label": "Blog",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
-                "label": "Sobre Mí",
-                "url": "/christopher-david-erazo-herrera",
-                "style": "link"
+                "url": "./blog",
+                "style": "linkedin"
             },
             {
                 "label": "Contacto",
                 "url": "/contact",
-                "style": "secondary"
+                "style": "linkedin"
             }
+            
         ],
         "logo": "/images/LOGO.png",
         "logo_alt": "cdeh_logo",
@@ -32,11 +33,6 @@
     "footer": {
         "has_nav": true,
         "nav_links": [
-            {
-                "label": "Contacto",
-                "url": "/contact",
-                "style": "link"
-            },
             {
                 "label": "Terminos y Condiciones",
                 "url": "/terms",
@@ -48,37 +44,37 @@
             {
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/in/christopherdavideh/",
-                "style": "icon",
+                "style": "linkedin",
                 "new_window": true
             },
             {
                 "label": "Twitter",
                 "url": "https://twitter.com/christopdavideh",
-                "style": "icon",
+                "style": "twitter",
                 "new_window": true
             },
             {
                 "label": "GitHub",
                 "url": "https://github.com/christopherdavideh",
-                "style": "icon",
+                "style": "github",
                 "new_window": true
             },
             {
                 "label": "Instagram",
                 "url": "https://www.instagram.com/christopherdavideh/",
-                "style": "icon",
+                "style": "instagram",
                 "new_window": true,
                 "no_follow": false
             },
             {
                 "label": "Facebook",
                 "url": "https://www.facebook.com/christopherdavideh",
-                "style": "icon",
+                "style": "facebook",
                 "new_window": true,
                 "no_follow": false
             }
         ],
-        "content": "<h5>&copy; <strong>christopherdavideh</strong>. All rights reserved.</h5>"
+        "content": "<br><br><center><h5>Christopher David Erazo Herrera @christopherdavideh &bull; Todos los derechos reservados &copy; 2022.</h5></center>"
     },
     "domain": "https://christopher-blog-df3dc.netlify.app/christopher-david-erazo-herrera/",
     "favicon": "/images/ChristopherErazo.ico"
