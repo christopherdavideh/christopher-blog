@@ -78,3 +78,19 @@
 .clear {
   @include clearfix();
 }
+
+table {
+  border: none;
+}
+
+table td {
+  margin: 0;
+  border: none;  
+  width: 390px;
+}
+
+table h5 {
+  margin-top: 0px;
+}
+
+

@@ -2,7 +2,12 @@
  * Styles for dark backgrounds
  */
 .inverse, .inverse--green {
-  color: $color-inverse-text;
+  color: $color-inverse-heading;
+  
+  p {
+    font-size: 1.25rem;
+    font-weight: 700;
+  }
 
   a {
     color: $color-inverse-link;
@@ -18,9 +23,9 @@
   }
 
   .btn {
-    background-color: $color-inverse-btn-bg;
-    border-color: $color-inverse-btn-border;
-    color: $color-inverse-btn;
+    background-color: $color-btn;
+    border-color: $color-btn;
+    color: $color-btn-facebook;
   }
 
   .btn--secondary {
