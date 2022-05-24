@@ -30,7 +30,7 @@ sections:
         actions:
           - label: Ver Proyecto
             url: 'https://github.com/christopherdavideh/laverix'
-            style: secondary
+            style: laravel
             new_window: true
             no_follow: true
       - title: Pomodoro App
@@ -54,7 +54,7 @@ sections:
         actions:
           - label: Ver Proyecto
             url: 'https://github.com/christopherdavideh/PomodoroApp'
-            style: primary
+            style: twitter
             new_window: true
             no_follow: true
       - title: Simulador de ATM y Canvas
@@ -75,7 +75,7 @@ sections:
         actions:
           - label: Ver Proyecto
             url: 'https://github.com/christopherdavideh/Manejo_del_DOM'
-            style: secondary
+            style: javascript
             new_window: true
             no_follow: true
 seo:
