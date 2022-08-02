@@ -5,22 +5,17 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Sobre Mí",
+                "label": "About me",
                 "url": "/christopher-david-erazo-herrera",
                 "style": "linkedin"
             },
             {
-                "label": "Portafolio",
-                "url": "/features",
+                "label": "Portfolio",
+                "url": "./portfolio",
                 "style": "linkedin"
             },
             {
-                "label": "Blog",
-                "url": "./blog",
-                "style": "linkedin"
-            },
-            {
-                "label": "Contacto",
+                "label": "Contact",
                 "url": "/contact",
                 "style": "linkedin"
             }
@@ -34,7 +29,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Terminos y Condiciones",
+                "label": "Terms and Conditions",
                 "url": "/terms",
                 "style": "link"
             }
@@ -74,7 +69,7 @@
                 "no_follow": false
             }
         ],
-        "content": "<br><br><center><h5>Christopher David Erazo Herrera @christopherdavideh &bull; Todos los derechos reservados &copy; 2022.</h5></center>"
+        "content": "<br><br><center><h5>@christopherdavideh &bull; All rights reserved &copy; 2022.</h5></center>"
     },
     "domain": "https://christopher-blog-df3dc.netlify.app/christopher-david-erazo-herrera/",
     "favicon": "/images/ChristopherErazo.ico"

@@ -72,11 +72,30 @@
   }
 }
 
+.hero {
+  
+  background: rgb(43,85,166);  
+  background:radial-gradient(circle,rgb(43,85,166,1) 0%,rgb(255,255,255,1) 16%) calc(100% - 75%) calc(100% - 10%)/200% 200%;
+  animation: change1 10s linear infinite alternate;
+}
+
+@keyframes change1 {
+  to {
+    background-position:calc(50% + 10%) calc(100% - 95%);
+  }
+}
+
+.hero img {
+  width: 280px;
+  height: 280px;
+}
+
 .section--features {
   .flex {
     margin-bottom: 3.75rem;
   }
 }
+
 
 .section--team,
 .section--posts {

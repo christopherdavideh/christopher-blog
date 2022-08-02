@@ -16,7 +16,7 @@ sections:
           <li>Recuperación/Cambio de contraseña</li>
           <li>Gestión de Roles. (CRUD). Sólo para usuarios administradores</li>
           <li>Asignación de permisos</li>
-          <li>Gestión completa de usuarios (CRUD). o Nombres o Apellidos o Teléfono o Dirección o Fecha de nacimiento o Fecha de nacimiento o Selección múltiple de Roles</li>
+          <li>Gestión completa de usuarios (CRUD).  Nombres  Apellidos Teléfono Dirección Fecha de nacimiento Selección múltiple de Roles</li>
           <li>Mensaje de notificación de las acciones del CRUD vía email.</li>
           <li>Búsqueda de usuarios por nombres y/o apellidos.</li>
           <li>Incluir paginado de usuarios.</li>

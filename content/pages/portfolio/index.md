@@ -1,10 +1,10 @@
 ---
-title: Contact
+title: Portfolio
 sections:
   - type: hero_section
+    title: Portfolio
     align: center
-    title: Contact
-    subtitle: Don't doubt to contact me
+    subtitle: Proximamente contenido relevante
     has_background: true
     background:
       background_color: gray
@@ -12,26 +12,33 @@ sections:
       background_image_opacity: 60
       background_image_size: cover
       background_image_repeat: no-repeat
-  - type: contact_section
-  
+  - type: blog_feed_section
+    show_recent: false
 seo:
-  title: Contact
-  description: This is the contact page
+  title: Portfolio
+  description: This is the Portfolio page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Portfolio
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: This is the Portfolio page
       keyName: property
+    - name: 'og:image'
+      value: images/1.png
+      keyName: property
+      relativeUrl: true
     - name: 'twitter:card'
-      value: summary
+      value: summary_large_image
     - name: 'twitter:title'
-      value: Contact
+      value: Portfolio
     - name: 'twitter:description'
-      value: This is the contact page
+      value: This is the Portfolio page
+    - name: 'twitter:image'
+      value: images/1.png
+      relativeUrl: true
 layout: advanced
 ---
