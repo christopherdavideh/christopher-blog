@@ -53,6 +53,6 @@ Consuming The Movie Database (TMDB) API with JavaScript using axios.
 
 <hr>
 <div class="section__actions btn-group">
-<a href="https://christopherdavideh.github.io/RecapMovies/" target="_blank" rel="noopener" class="btn btn--purple">Demo</a>
+<a href="https://christopherdavideh.github.io/RecapMovies/" target="_blank" rel="noopener" class="btn btn--recap">Demo</a>
 <a href="https://github.com/christopherdavideh/RecapMovies" target="_blank" rel="noopener" class="btn btn--github">Code</a>
 </div>

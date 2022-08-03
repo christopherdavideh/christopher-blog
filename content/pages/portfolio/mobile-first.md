@@ -11,7 +11,7 @@ tags:
   - Flex
   - Grid
   - Mobile First
-image: images/2.png
+image: images/mobile-first.png
 image_alt: Post 2 placeholder image
 excerpt: >-
   Frontend of a website based on its wireframe, we analyze its architecture and we build in code each of its parts so that it adapts to any device of the users using the Mobile First methodology.
@@ -29,7 +29,7 @@ seo:
       value: Frontend of a website based on its wireframe, we analyze its architecture and we build in code each of its parts so that it adapts to any device of the users using the Mobile First methodology.
       keyName: property
     - name: 'og:image'
-      value: images/2.png
+      value: images/mobile-first.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -39,9 +39,21 @@ seo:
     - name: 'twitter:description'
       value: Frontend of a website based on its wireframe, we analyze its architecture and we build in code each of its parts so that it adapts to any device of the users using the Mobile First methodology.
     - name: 'twitter:image'
-      value: images/2.png
+      value: images/mobile-first.png
       relativeUrl: true
 layout: post
 ---
 
 Frontend of a website based on its wireframe, we analyze its architecture and we build in code each of its parts so that it adapts to any device of the users using the Mobile First methodology.
+
+- Creation and application of styles with reusable CSS.
+- Application of BEM methodology.
+- Lighthouse Audit.
+- Application of media queries to adapt the view to any device.
+- Analyze the project architecture starting from a wireframe.
+
+<hr>
+<div class="section__actions btn-group">
+<a href="https://christopherdavideh.github.io/MobileFirst-Layout/" target="_blank" rel="noopener" class="btn btn--javascript">Demo</a>
+<a href="https://github.com/christopherdavideh/MobileFirst-Layout" target="_blank" rel="noopener" class="btn btn--github">Code</a>
+</div>
