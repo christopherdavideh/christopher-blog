@@ -55,7 +55,7 @@ sections:
         actions:
           - label: See my CV
             url: 'https://cutt.ly/Hv_ChristopherErazo'
-            style: linkedin
+            style: blue
             new_window: true
             no_follow: true
         image: /images/code.gif
@@ -66,11 +66,11 @@ sections:
     actions:
       - label: See portfolio
         url: /portfolio
-        style: secondary
+        style: info
         new_window: false
         no_follow: false
     has_background: true
-    background_color: blue
+    background_color: green
     type: cta_section
 seo:
   title: Who is Christopher David Erazo Herrera

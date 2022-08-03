@@ -7,17 +7,17 @@
             {
                 "label": "About me",
                 "url": "/christopher-david-erazo-herrera",
-                "style": "linkedin"
+                "style": "blue"
             },
             {
                 "label": "Portfolio",
                 "url": "./portfolio",
-                "style": "linkedin"
+                "style": "blue"
             },
             {
                 "label": "Contact",
                 "url": "/contact",
-                "style": "linkedin"
+                "style": "blue"
             }
             
         ],
