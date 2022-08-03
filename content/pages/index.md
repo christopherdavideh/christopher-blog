@@ -8,9 +8,11 @@ sections:
       - label: About me
         url: /christopher-david-erazo-herrera
         style: blue
-      - label: Contact
-        url: /contact
+      - label: My CV
+        url: https://cutt.ly/Hv_ChristopherErazo
         style: linkedin
+        new_window: true
+        no_follow: true
     align: left
     image: /images/ChristopherErazo.jpg
     image_alt: profile_logo
@@ -59,13 +61,6 @@ sections:
         align: left
         image_alt: lorem-ipsum
         image_position: right
-        
-        actions:
-          - label: See my CV
-            url: 'https://cutt.ly/Hv_ChristopherErazo'
-            style: blue
-            new_window: true
-            no_follow: true
 
   - type: features_section
     title: Portfolio
@@ -129,9 +124,7 @@ sections:
 seo:
   title: Christopher David Erazo Herrera
   description: >-
-    Desarrollador Web con más de un año de experiencia, trabajo como freelance
-    realizando proyectos de desarrollo web para pequeños emprendimientos que
-    quieren...
+    Software Developer with more than a year of experience in Web Application Development. I have participated in the development of mobile...
   extra:
     - name: 'og:type'
       value: website
@@ -141,9 +134,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >+
-        Desarrollador Web con más de un año de experiencia, trabajo como
-        freelance realizando proyectos de desarrollo web para pequeños
-        emprendimientos que quieren..
+        Software Developer with more than a year of experience in Web Application Development. I have participated in the development of mobile...
       keyName: property
     - name: 'og:image'
       value: /images/seo.png
@@ -155,9 +146,7 @@ seo:
       value: Christopher David Erazo Herrera
     - name: 'twitter:description'
       value: >-
-        Desarrollador Web con más de un año de experiencia, trabajo como
-        freelance realizando proyectos de desarrollo web para pequeños
-        emprendimientos que quieren...
+        Software Developer with more than a year of experience in Web Application Development. I have participated in the development of mobile...
     - name: 'twitter:image'
       value: /images/seo.png
       relativeUrl: true
