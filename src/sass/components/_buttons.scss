@@ -78,6 +78,55 @@ input[type="reset"],
   color: $color-btn;
 }
 
+.btn--blue {
+  background-color: $color-btn-blue;
+  border-color: $color-btn-blue;
+  color: $color-btn;
+}
+
+.btn--green {
+  background-color: $color-btn-green;
+  border-color: $color-btn-green;
+  color: $color-btn;
+}
+
+.btn--purple {
+  background-color: $color-btn-purple;
+  border-color: $color-btn-purple;
+  color: $color-btn;
+}
+
+.btn--dotnet {
+  background-color: $color-btn-dotnet;
+  border-color: $color-btn-dotnet;
+  color: $color-btn;
+}
+
+.btn--xamarin {
+  background-color: $color-btn-xamarin;
+  border-color: $color-btn-xamarin;
+  color: $color-btn;
+}
+
+.btn--react {
+  background-color: $color-btn-react;
+  border-color: $color-btn-react;
+  color: $color-btn;
+}
+
+.btn--recap {
+  background-color: $color-btn-recap;
+  border-color: $color-btn-recap;
+  color: $color-btn;
+}
+
+
+.btn--recap-dark {
+  background-color: $color-btn-recap-dark;
+  border-color: $color-btn-recap-dark;
+  color: $color-btn;
+}
+
 .btn--instagram {
   background: radial-gradient(
       circle farthest-corner at 0% 150%,
@@ -122,6 +171,7 @@ input[type="reset"],
   align-items: center;
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
 
   a,
   .btn {

@@ -1,20 +1,16 @@
 ---
-title: About me
+title: Who is Christopher David Erazo Herrera
 sections:
   - title: About me
     features:
       - content: >
-          Soy Ecuatoriano, originario de Quito, autodidacta y un apasionado por las tecnologías de desarrollo de software que le gusta seguir descubriendo nuevas cosas, hoy en día estoy potenciando mis conocimientos y habilidades en Python JavaScript y React en [Platzi.com](http://platzi.com).
+          I am Ecuadorian, originally from Quito, self-taught and passionate about software development technologies, who likes to continue discovering new things, Currently, I am enhancing my knowledge and skills in Python JavaScript and React on [Platzi.com](http://platzi.com).
 
-          #### Trayectoria
+          #### Experience
 
+          Software Developer with more than a year of experience in Web Application Development. I have participated in the development of mobile applications with Xamarin.Forms and some web applications using technologies such as PHP, Laravel, ASP.NET Framework and Core with MVC. Prior to this, I gained experience in the area of Customer Service and Sales where you can develop skills such as working under pressure, teamwork, good attitude and proactivity. 
 
-          Desarrollador de Software con más de un año de experiencia en Desarrollo de Aplicaciones Web. He participado en el desarrollo de aplicaciones móviles con Xamarin.Forms y algunas aplicaciones web usando tecnologías Micrisoft como ASP.NET Core, Framework y MVC. Anterior a esto, adquirí experiencia en el área de Atención al Cliente y Ventas donde puede desarrollar habilidades como trabajar bajo presión, trabajo en equipo, buena actitud y proactividad.
-          
-           Mi propósito es seguir creciendo profesionalmente e ir adquiriendo experiencia ya sea dentro de una Empresa de Desarrollo de Software o de manera independiente creando mi propia Startup.
-          
-
-          Actualmente trabajo de forma independiente o como freelance realizando pequeños proyectos de Desarrollo Web para algunos emprendimientos que desean impulsar sus ideas y dar conocer sus servicios Online.
+          I am self-taught and passionate about software development technologies who likes to keep discovering new things. My purpose is to continue growing professionally and gain experience within a great Software Development Startup.
         align: left
         image_alt: profile_image
         image_position: left
@@ -77,39 +73,33 @@ sections:
     background_color: blue
     type: cta_section
 seo:
-  title: Quién es Christopher David Erazo Herrera
+  title: Who is Christopher David Erazo Herrera
   description: >-
-    Desarrollador Web con más de un año de experiencia, trabajo como freelance
-    realizando proyectos de desarrollo web para pequeños emprendimientos que
-    quieren...
+    Software Developer with more than a year of experience in Web Application Development. I have participated in the development of mobile...
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Quién es Christopher David Erazo Herrera
+      value: Who is Christopher David Erazo Herrera
       keyName: property
     - name: 'og:description'
       value: >-
-        Desarrollador Web con más de un año de experiencia, trabajo como freelance
-        realizando proyectos de desarrollo web para pequeños emprendimientos que
-        quieren...
+        Software Developer with more than a year of experience in Web Application Development. I have participated in the development of mobile...
       keyName: property
     - name: 'og:image'
-      value: images/ChristopherErazo.png
+      value: images/ChristopherErazo.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Quién es Christopher David Erazo Herrera
+      value: Who is Christopher David Erazo Herrera
     - name: 'twitter:description'
       value: >-
-        Desarrollador Web con más de un año de experiencia, trabajo como freelance
-        realizando proyectos de desarrollo web para pequeños emprendimientos que
-        quieren...
+        Software Developer with more than a year of experience in Web Application Development. I have participated in the development of mobile...
     - name: 'twitter:image'
-      value: images/ChristopherErazo.png
+      value: images/ChristopherErazo.jpg
       relativeUrl: true
 layout: advanced
 ---

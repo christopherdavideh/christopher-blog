@@ -19,7 +19,15 @@ export default class Action extends React.Component {
             'btn--info': style === 'info',
             'btn--laravel': style === 'laravel',
             'btn--javascript': style === 'javascript',
-            'btn--facebook': style === 'facebook'
+            'btn--facebook': style === 'facebook',
+            'btn--blue': style === 'blue',
+            'btn--green': style === 'green',
+            'btn--purple': style === 'purple',
+            'btn--dotnet': style === 'dotnet',
+            'btn--xamarin': style === 'xamarin',
+            'btn--react': style === 'react',
+            'btn--recap': style === 'recap',
+            'btn--recap-dark': style === 'recap-dark'
         });
         const newWindow = _.get(action, 'new_window');
         const noFollow = _.get(action, 'no_follow');

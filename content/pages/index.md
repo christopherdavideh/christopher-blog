@@ -2,13 +2,13 @@
 title: Christopher David Erazo Herrera
 sections:
   - type: hero_section
-    title: Christopher David Erazo Herrera
-    subtitle: 'Desarrollador de Software - No paro de aprender en @Platzi '
+    title: Hi 🖐, I'm Christopher David Erazo Herrera
+    subtitle: 'Software Developer | C# - .NET | PHP - Laravel | Python | JavaScript | React | Xamrin.Forms | SQL | PostgresSQL |'
     actions:
-      - label: Ver más
+      - label: About me
         url: /christopher-david-erazo-herrera
-        style: github
-      - label: Contacto
+        style: blue
+      - label: Contact
         url: /contact
         style: linkedin
     align: left
@@ -54,7 +54,7 @@ sections:
             <table>
                 <td><h5>Version Control</h5><a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="/icons/git.svg" width="48" height="48" alt="Git" /></a> <a href="https://docs.github.com/es" target="_blank" rel="noreferrer"><img src="/icons/github.svg" width="48" height="48" alt="GitHub" /></a></td>
                 <td> <h5>Mobile Development </h5> <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="48" height="48" alt="Flutter" /></a>
-                <a href="https://docs.microsoft.com/en-us/xamarin/get-started/what-is-xamarin-forms" target="_blank" rel="noreferrer"><img src="/icons/xamarin.svg" width="48" height="48" alt="xamarin" /></a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="48" height="48" alt="React-Native" /></td>                            
+                <a href="https://docs.microsoft.com/en-us/xamarin/get-started/what-is-xamarin-forms" target="_blank" rel="noreferrer"><img src="/icons/xamarin.svg" width="48" height="48" alt="xamarin" /></a></td>
             </table>
         align: left
         image_alt: lorem-ipsum
@@ -63,7 +63,7 @@ sections:
         actions:
           - label: See my CV
             url: 'https://cutt.ly/Hv_ChristopherErazo'
-            style: linkedin
+            style: blue
             new_window: true
             no_follow: true
 
@@ -80,7 +80,7 @@ sections:
         actions:
           - label: See more
             url: /portfolio/todo-react-app
-            style: linkedin
+            style: purple
       - title: Recap Movies & TV
         content: >-
          Consuming The Movie Database (TMDB) API with JavaScript.
@@ -91,7 +91,7 @@ sections:
         actions:
           - label: See more
             url: /portfolio/recap-movies
-            style: linkedin
+            style: recap
       - title: API Rest with .NET 6
         content: >-
           A simple Web API Rest with .NET Core and PostgreSQL.
@@ -102,19 +102,19 @@ sections:
         actions:
           - label: See more
             url: /portfolio/api-dotnet
-            style: linkedin
-  - title: Portfolio
-    subtitle: Enter to see all my development projects.
+            style: dotnet
+  - title: 
+    subtitle: 
     actions:
-      - label: See portfolio
+      - label: See all projects
         url: /portfolio
-        style: secondary
+        style: green
         new_window: false
         no_follow: false
-    has_background: true
-    background_color: blue
+    has_background: false
+    background_color: secondary
     type: cta_section
-    
+
   - title: Get in touch!
     subtitle: I'm always looking for new challenging and exciting opportunities. So feel free to send me an email.
     actions:
