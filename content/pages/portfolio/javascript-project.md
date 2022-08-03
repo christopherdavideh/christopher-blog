@@ -10,7 +10,7 @@ tags:
   - JavaScript
   - HTML5
   - CSS
-image: images/5.png
+image: images/javascript_project.png
 image_alt: Post 5 placeholder image
 excerpt: >-
   Project using javascript and DOM manipulation.
@@ -28,7 +28,7 @@ seo:
       value: 'Project using javascript and DOM manipulation'
       keyName: property
     - name: 'og:image'
-      value: images/5.png
+      value: images/javascript_project.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -38,9 +38,16 @@ seo:
     - name: 'twitter:description'
       value: 'Project using javascript and DOM manipulation'
     - name: 'twitter:image'
-      value: images/5.png
+      value: images/javascript_project.png
       relativeUrl: true
 layout: post
 ---
 
 Project using javascript and DOM manipulation.
+![](http://christopherdavideh.com/images/google.png)
+
+<hr>
+<div class="section__actions btn-group">
+<a href="https://christopherdavideh.github.io/javascriptProject/" target="_blank" rel="noopener" class="btn btn--green">Demo</a>
+<a href="https://github.com/christopherdavideh/GoogleClone" target="_blank" rel="noopener" class="btn btn--github">Code</a>
+</div>

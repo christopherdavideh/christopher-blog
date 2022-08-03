@@ -42,3 +42,19 @@ layout: post
 ---
 
 Web application with Laravel 9 and PHP 8.0.
+
+- Iniciar y Cerrar sesión.
+- Recuperación/Cambio de contraseña.
+- Gestión de Roles. (CRUD). Sólo para usuarios administradores.
+- Asignación de permisos.
+- Gestión completa de usuarios (CRUD). | Nombres | Apellidos | Teléfono | Dirección | Fecha de nacimiento | Selección múltiple de Roles
+- Mensaje de notificación de las acciones del CRUD vía email.
+- Búsqueda de usuarios por nombres y/o apellidos.
+- Incluir paginado de usuarios.
+- Incluir un usuario administrador por defecto con permiso para gestionar todo.
+- Realizar validaciones de los formularios en el backend.
+
+<hr>
+<div class="section__actions btn-group">
+<a href="https://github.com/christopherdavideh/laverix" target="_blank" rel="noopener" class="btn btn--github">Code</a>
+</div>
