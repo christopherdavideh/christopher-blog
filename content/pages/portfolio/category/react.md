@@ -4,6 +4,13 @@ sections:
   - type: hero_section
     title: All Projects with React
     align: center
+    has_background: true
+    background:
+      background_color: gray
+      background_image: /images/fondo.jpg
+      background_image_opacity: 60
+      background_image_size: cover
+      background_image_repeat: no-repeat
   - type: blog_feed_section
     show_recent: false
     category: content/data/categories/react.yaml

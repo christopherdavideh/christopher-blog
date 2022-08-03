@@ -1,29 +1,28 @@
 ---
-title: To-do React App
-date: '2022-07-02'
+title: Recap Movies & TV
+date: '2020-06-24'
 author: 
 categories:
-  - content/data/categories/react.yaml
   - content/data/categories/javascript.yaml
 tags:
-  - React
   - JavaScript
+  - API Rest
 image: images/5.png
 image_alt: Post 5 placeholder image
 excerpt: >-
-  Web application to manage and organize our tasks.
+  Consuming The Movie Database (TMDB) API with JavaScript
 seo:
-  title: To-do React App
-  description: 'Web application to manage and organize our tasks'
+  title: Recap Movies & TV
+  description: 'Consuming The Movie Database (TMDB) API with JavaScript'
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: To-do React App
+      value: Recap Movies & TV
       keyName: property
     - name: 'og:description'
-      value: 'Web application to manage and organize our tasks'
+      value: 'Consuming The Movie Database (TMDB) API with JavaScript'
       keyName: property
     - name: 'og:image'
       value: images/5.png
@@ -32,14 +31,13 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: To-do React App
+      value: Recap Movies & TV
     - name: 'twitter:description'
-      value: 'Web application to manage and organize our tasks'
+      value: 'Consuming The Movie Database (TMDB) API with JavaScript'
     - name: 'twitter:image'
       value: images/5.png
       relativeUrl: true
 layout: post
 ---
 
-Web application to manage and organize our tasks.
-<a href="https://www.linkedin.com/in/christopherdavideh/" target="_blank" rel="noopener" class="btn btn--linkedin">LinkedIn</a>
+Consuming The Movie Database (TMDB) API with JavaScript.

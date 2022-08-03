@@ -35,22 +35,21 @@ sections:
                 <td> <h5>Frontend </h5> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="48" height="48" alt="HTML5" /></a>
                 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="48" height="48" alt="CSS3" /></a>
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="48" height="48" alt="Javascript" /></a>
-                <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="48" height="48" alt="Bootstrap" /></a>
-                <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="48" height="48" alt="JQuery" /></a> </td>
+                </td>
                 <td><h5>Backend</h5><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="48" height="48" alt="C#" /></a>
                 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="48" height="48" alt="PHP" /></a>
-                <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="48" height="48" alt="Java" /></a>
                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48" height="48" alt="Python" /></a></td>            
             </table>
             <table>
-                <td><h5>Frameworks | Libraries</h5><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="48" height="48" alt="React" /></a>
-                <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="48" height="48" alt="NodeJS" /></a>
-                <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="48" height="48" alt="Fast API" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="48" height="48" alt=".NET" /></a>
+                <td><h5>Frameworks | Libraries</h5><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="48" height="48" alt="Bootstrap" /></a>
+                <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="48" height="48" alt="JQuery" /></a> 
+                <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="48" height="48" alt="React" /></a>
+                <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="48" height="48" alt=".NET" /></a>
                 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="48" height="48" alt="Django" /></a>
                 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="48" height="48" alt="Lavarel" /></a></td>
                 <td> <h5>Data Base </h5> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="48" height="48" alt="MySQL" /></a>
                 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="48" height="48" alt="PostgreSQL" /></a>
-                <a href="https://docs.microsoft.com/en-us/sql/?view=sql-server-ver16" target="_blank" rel="noreferrer"><img src="/icons/sql-server.svg" width="78" height="78" alt="SQL-Server" /></a> </td>                            
+                <a href="https://docs.microsoft.com/en-us/sql/?view=sql-server-ver16" target="_blank" rel="noreferrer"><img src="/icons/sql-server.svg" width="48" height="48" alt="SQL-Server" /></a> </td>
             </table>
             <table>
                 <td><h5>Version Control</h5><a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="/icons/git.svg" width="48" height="48" alt="Git" /></a> <a href="https://docs.github.com/es" target="_blank" rel="noreferrer"><img src="/icons/github.svg" width="48" height="48" alt="GitHub" /></a></td>
@@ -62,7 +61,7 @@ sections:
         image_position: right
         
         actions:
-          - label: See CV
+          - label: See my CV
             url: 'https://cutt.ly/Hv_ChristopherErazo'
             style: linkedin
             new_window: true
@@ -71,43 +70,51 @@ sections:
   - type: features_section
     title: Portfolio
     features:
-      - title: Proyecto Laravel 9.0
+      - title: To-do React App
         content: >-
-          Aplicación web desarrollada con las ultimas funcionalidades quenos ofrece Laravel 9.
+          Web application to manage and organize our tasks.
         align: left
         image: images/laravel.svg
-        image_alt: Feature 1 placeholder image
+        image_alt: Project 1 placeholder image
         image_position: right
         actions:
-          - label: Ver más
-            url: /features
-            style: laravel
-      - title: Pomodoro App
+          - label: See more
+            url: /portfolio/todo-react-app
+            style: linkedin
+      - title: Recap Movies & TV
         content: >-
-          Aplicacion realizada con Xamarin.Forms que nos permite aplicar la tecnica de pomodoro para maximizar nuestra concentración. Utilizamos el patron de diseño MVVM.
+         Consuming The Movie Database (TMDB) API with JavaScript.
         align: left
         image: images/xamarin.svg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
-          - label: Ver más
-            url: /features
-            style: twitter
-      - title: Simulador de ATM y Canvas
+          - label: See more
+            url: /portfolio/recap-movies
+            style: linkedin
+      - title: API Rest with .NET 6
         content: >-
-          Proyecto desarrollado con HTML5, CSS, JavaScript, Canvas y Bootstrapt 5.
+          A simple Web API Rest with .NET Core and PostgreSQL.
         align: left
         image: images/javascript.svg
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
-          - label: Ver más
-            url: /features
-            style: javascript
-  - type: blog_feed_section
-    title: Artículos Próximamnete
-    show_recent: true
-    recent_count: 3
+          - label: See more
+            url: /portfolio/api-dotnet
+            style: linkedin
+  - title: Portfolio
+    subtitle: Enter to see all my development projects.
+    actions:
+      - label: See portfolio
+        url: /portfolio
+        style: secondary
+        new_window: false
+        no_follow: false
+    has_background: true
+    background_color: blue
+    type: cta_section
+    
   - title: Get in touch!
     subtitle: I'm always looking for new challenging and exciting opportunities. So feel free to send me an email.
     actions:

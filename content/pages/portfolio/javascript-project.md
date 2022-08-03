@@ -1,29 +1,31 @@
 ---
-title: To-do React App
-date: '2022-07-02'
+title: JavaScript Project
+date: '2020-06-20'
 author: 
 categories:
-  - content/data/categories/react.yaml
   - content/data/categories/javascript.yaml
+  - content/data/categories/html.yaml
+  - content/data/categories/css.yaml
 tags:
-  - React
   - JavaScript
+  - HTML5
+  - CSS
 image: images/5.png
 image_alt: Post 5 placeholder image
 excerpt: >-
-  Web application to manage and organize our tasks.
+  Project using javascript and DOM manipulation.
 seo:
-  title: To-do React App
-  description: 'Web application to manage and organize our tasks'
+  title: JavaScript Project
+  description: 'Project using javascript and DOM manipulation'
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: To-do React App
+      value: JavaScript Project
       keyName: property
     - name: 'og:description'
-      value: 'Web application to manage and organize our tasks'
+      value: 'Project using javascript and DOM manipulation'
       keyName: property
     - name: 'og:image'
       value: images/5.png
@@ -32,14 +34,13 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: To-do React App
+      value: JavaScript Project
     - name: 'twitter:description'
-      value: 'Web application to manage and organize our tasks'
+      value: 'Project using javascript and DOM manipulation'
     - name: 'twitter:image'
       value: images/5.png
       relativeUrl: true
 layout: post
 ---
 
-Web application to manage and organize our tasks.
-<a href="https://www.linkedin.com/in/christopherdavideh/" target="_blank" rel="noopener" class="btn btn--linkedin">LinkedIn</a>
+Project using javascript and DOM manipulation.

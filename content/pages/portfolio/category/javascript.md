@@ -1,10 +1,9 @@
 ---
-title: Portfolio
+title: JavaScript
 sections:
   - type: hero_section
-    title: Portfolio
+    title: All Projects with JavaScript
     align: center
-    subtitle: Here, you can find all the projects I have developed, which have helped me to enhance my skills.
     has_background: true
     background:
       background_color: gray
@@ -14,18 +13,19 @@ sections:
       background_image_repeat: no-repeat
   - type: blog_feed_section
     show_recent: false
+    category: content/data/categories/javascript.yaml
 seo:
-  title: Portfolio
-  description: This is the Portfolio page
+  title: Projects with JavaScript
+  description: This is the category archive page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Portfolio
+      value: Projects with JavaScript
       keyName: property
     - name: 'og:description'
-      value: This is the Portfolio page
+      value: This is the category archive page
       keyName: property
     - name: 'og:image'
       value: images/1.png
@@ -34,9 +34,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Portfolio
+      value: Projects with JavaScript
     - name: 'twitter:description'
-      value: This is the Portfolio page
+      value: This is the category archive page
     - name: 'twitter:image'
       value: images/1.png
       relativeUrl: true
