@@ -8,13 +8,13 @@ tags:
   - Laravel
   - PHP
   - MySQL
-image: images/5.png
-image_alt: Post 5 placeholder image
+image: images/laravel_9.png
+image_alt: Post laravel_9 placeholder image
 excerpt: >-
-  Web application with Laravel 9 and PHP 8.0.
+  Web application developed with Laravel 9 and PHP 8.0, the web application allows us to Manage Roles and Users.
 seo:
   title: Laravel 9 Project
-  description: 'Web application with Laravel 9 and PHP 8.0.'
+  description: 'Web application developed with Laravel 9 and PHP 8.0, the web application allows us to Manage Roles and Users.'
   extra:
     - name: 'og:type'
       value: article
@@ -23,10 +23,10 @@ seo:
       value: Laravel 9 Project
       keyName: property
     - name: 'og:description'
-      value: 'Web application with Laravel 9 and PHP 8.0.'
+      value: 'Web application developed with Laravel 9 and PHP 8.0, the web application allows us to Manage Roles and Users.'
       keyName: property
     - name: 'og:image'
-      value: images/5.png
+      value: images/laravel_9.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -34,25 +34,24 @@ seo:
     - name: 'twitter:title'
       value: Laravel 9 Project
     - name: 'twitter:description'
-      value: 'Web application with Laravel 9 and PHP 8.0.'
+      value: 'Web application developed with Laravel 9 and PHP 8.0, the web application allows us to Manage Roles and Users.'
     - name: 'twitter:image'
-      value: images/5.png
+      value: images/laravel_9.png
       relativeUrl: true
 layout: post
 ---
 
-Web application with Laravel 9 and PHP 8.0.
+Web application developed with Laravel 9 and PHP 8.0, the web application allows us to:
 
-- Iniciar y Cerrar sesión.
-- Recuperación/Cambio de contraseña.
-- Gestión de Roles. (CRUD). Sólo para usuarios administradores.
-- Asignación de permisos.
-- Gestión completa de usuarios (CRUD). | Nombres | Apellidos | Teléfono | Dirección | Fecha de nacimiento | Selección múltiple de Roles
-- Mensaje de notificación de las acciones del CRUD vía email.
-- Búsqueda de usuarios por nombres y/o apellidos.
-- Incluir paginado de usuarios.
-- Incluir un usuario administrador por defecto con permiso para gestionar todo.
-- Realizar validaciones de los formularios en el backend.
+- Login and logout.
+- Recovery/Change password.
+- Role Management (CRUD). Only admin users.
+- Permission Assignments.
+- Complete user management (CRUD).
+- Notification message of CRUD actions by email.
+- Search for users by first and/or last name.
+- User pagination.
+- Form validations in the backend.
 
 <hr>
 <div class="section__actions btn-group">
