@@ -70,6 +70,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
+Detailed guide for installation [here](https://drive.google.com/file/d/1aNr1ojI_3TbEE3u1KZ5xRWzDMEdulY1y/view?usp=sharing) (Spanish Version).
+
 <hr>
 <div class="section__actions btn-group">
 <a href="https://github.com/christopherdavideh/react-api-dotnet" target="_blank" rel="noopener" class="btn btn--github">Code</a>
