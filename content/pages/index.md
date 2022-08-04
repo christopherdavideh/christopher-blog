@@ -69,7 +69,7 @@ sections:
         content: >-
           Web application to manage and organize our tasks.
         align: left
-        image: images/laravel.svg
+        image: images/todo-react.png
         image_alt: Project 1 placeholder image
         image_position: right
         actions:
@@ -78,9 +78,9 @@ sections:
             style: purple
       - title: Recap Movies & TV
         content: >-
-         Consuming The Movie Database (TMDB) API with JavaScript.
+         Consuming The Movie Database (TMDB) API with JavaScript using axios.
         align: left
-        image: images/xamarin.svg
+        image: images/recap.png
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
@@ -89,9 +89,9 @@ sections:
             style: recap
       - title: API Rest with .NET 6
         content: >-
-          A simple Web API Rest with .NET Core and PostgreSQL.
+          A simple Web API Rest with .NET 6 and PostgreSQL.
         align: left
-        image: images/javascript.svg
+        image: images/api-dotnet.png
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
