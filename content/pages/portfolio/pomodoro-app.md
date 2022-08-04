@@ -11,10 +11,10 @@ tags:
 image: images/app_dev.gif
 image_alt: Post 5 placeholder image
 excerpt: >-
-  Application made with Xamarin.Forms that allows us to apply the pomodoro technique to maximize our concentration. We use the MVVM design pattern.
+  Application made with Xamarin.Forms that allows us to apply the pomodoro technique to maximize our concentration.
 seo:
   title: Pomodoro App
-  description: 'Application made with Xamarin.Forms that allows us to apply the pomodoro technique to maximize our concentration. We use the MVVM design pattern.'
+  description: 'Application made with Xamarin.Forms that allows us to apply the pomodoro technique to maximize our concentration.'
   extra:
     - name: 'og:type'
       value: article
@@ -23,7 +23,7 @@ seo:
       value: Pomodoro App
       keyName: property
     - name: 'og:description'
-      value: 'Application made with Xamarin.Forms that allows us to apply the pomodoro technique to maximize our concentration. We use the MVVM design pattern.'
+      value: 'Application made with Xamarin.Forms that allows us to apply the pomodoro technique to maximize our concentration.'
       keyName: property
     - name: 'og:image'
       value: images/app_dev.gif
@@ -34,7 +34,7 @@ seo:
     - name: 'twitter:title'
       value: Pomodoro App
     - name: 'twitter:description'
-      value: 'Application made with Xamarin.Forms that allows us to apply the pomodoro technique to maximize our concentration. We use the MVVM design pattern.'
+      value: 'Application made with Xamarin.Forms that allows us to apply the pomodoro technique to maximize our concentration.'
     - name: 'twitter:image'
       value: images/app_dev.gif
       relativeUrl: true
