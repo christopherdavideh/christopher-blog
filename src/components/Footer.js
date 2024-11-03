@@ -6,6 +6,7 @@ import { htmlToReact } from '../utils';
 
 export default class Footer extends React.Component {
     render() {
+        const actualYear = new Date().getFullYear();
         const config = _.get(this.props, 'config');
         const footer = _.get(config, 'footer');
         const hasNav = _.get(footer, 'has_nav');
@@ -41,7 +42,15 @@ export default class Footer extends React.Component {
                         </div>
                     )}
                     <div className="site-footer__copyright">
-                        {copyright && <span>{htmlToReact(copyright)}</span>}
+                        {copyright && (
+                            <span>
+                                <br />
+                                <br />
+                                <center>
+                                    <h5>{htmlToReact(copyright) + actualYear}</h5>
+                                </center>
+                            </span>
+                        )}
                         {_.map(links, (action, index) => (
                             <Action key={index} action={action} />
                         ))}
