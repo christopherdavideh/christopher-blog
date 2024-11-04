@@ -54,6 +54,7 @@ sections:
             align: left
             image_alt: lorem-ipsum
             image_position: right
+            image: /images/qr.png
 
             actions:
                 - label: See my CV
@@ -61,7 +62,6 @@ sections:
                   style: blue
                   new_window: true
                   no_follow: true
-            image: /images/qr.png
       type: features_section
 
     - title: Portfolio
