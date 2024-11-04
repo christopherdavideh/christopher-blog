@@ -29,16 +29,16 @@ export default class FeaturesSection extends React.Component {
                         })}
                     >
                         <img src={withPrefix(image)} alt={imageAlt} />
-                        {!_.isEmpty(actions) && (
-                            <div className="section__actions btn-group">
-                                <SectionActions actions={actions} />
-                            </div>
-                        )}
                     </div>
                 )}
                 <div className="section__body cell">
                     {title && (sectionTitle ? <h3 className="section__title">{title}</h3> : <h2 className="section__title">{title}</h2>)}
                     {content && <div className="section__copy">{markdownify(content)}</div>}
+                    {!_.isEmpty(actions) && (
+                        <div className="section__actions btn-group">
+                            <SectionActions actions={actions} />
+                        </div>
+                    )}
                 </div>
             </div>
         );
