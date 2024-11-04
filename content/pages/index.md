@@ -62,7 +62,7 @@ sections:
             image_alt: lorem-ipsum
             image_position: right
 
-    - type: features_section
+    - type: hero_section
       title: Portfolio
       features:
           - title: To-do React App
