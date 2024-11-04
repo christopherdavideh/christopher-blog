@@ -19,6 +19,12 @@ sections:
             image_alt: profile_image
             image_position: left
             image: /images/ChristopherErazo.jpg
+            actions:
+                - label: See my CV
+                  url: 'https://bit.ly/CV_ChristopherErazo'
+                  style: blue
+                  new_window: true
+                  no_follow: true
       type: features_section
 
     - title:
@@ -55,13 +61,6 @@ sections:
             image_alt: lorem-ipsum
             image_position: right
             image: /images/qr.png
-
-            actions:
-                - label: See my CV
-                  url: 'https://bit.ly/CV_ChristopherErazo'
-                  style: blue
-                  new_window: true
-                  no_follow: true
       type: features_section
 
     - title: Portfolio
