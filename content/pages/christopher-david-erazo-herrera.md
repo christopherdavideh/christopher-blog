@@ -9,9 +9,11 @@ sections:
                 #### Experience
 
                 Software Developer with four years of experience in Web Application Development. I have participated in the development of mobile applications with Xamarin.Forms, now MAUI and some web applications for the financial sector using technologies such as React and Angular. 
-                \
+
+
                 Prior to this, I gained experience in the area of Customer Service and Sales where you can develop skills such as working under pressure, teamwork, good attitude and proactivity. 
-                \
+
+
                 My goal is to continue expanding professionally, enhancing my skills and proposing my ideas, which support the constant development of Startups or Companies.
             align: left
             image_alt: profile_image
